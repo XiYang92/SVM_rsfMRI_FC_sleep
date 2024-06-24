@@ -1,0 +1,896 @@
+[[1]]
+[1] 0.5517241
+
+[[2]]
+[1] 0.4137931
+
+[[3]]
+[1] 0.5
+
+[[4]]
+[1] 0.4285714
+
+[[5]]
+[1] 0.5172414
+
+[[6]]
+[1] 0.5
+
+[[7]]
+[1] 0.5
+
+[[8]]
+[1] 0.5925926
+
+[[9]]
+[1] 0.5357143
+
+[[10]]
+[1] 0.5172414
+
+[[11]]
+    true
+pred 1 2
+   1 8 6
+   2 7 8
+
+[[12]]
+    true
+pred 1 2
+   1 7 9
+   2 8 5
+
+[[13]]
+    true
+pred  1  2
+   1 15 15
+   2  0  0
+
+[[14]]
+    true
+pred 1 2
+   1 6 7
+   2 9 6
+
+[[15]]
+    true
+pred 1 2
+   1 9 8
+   2 6 6
+
+[[16]]
+    true
+pred  1  2
+   1 14 14
+   2  0  0
+
+[[17]]
+    true
+pred  1  2
+   1 15 15
+   2  0  0
+
+[[18]]
+    true
+pred  1  2
+   1  6  3
+   2  8 10
+
+[[19]]
+    true
+pred  1  2
+   1 10  8
+   2  5  5
+
+[[20]]
+    true
+pred 1 2
+   1 9 8
+   2 6 6
+
+[[21]]
+[[21]]$diag
+[1] 0.5517241
+
+[[21]]$kappa
+[1] 0.1045131
+
+[[21]]$rand
+[1] 0.4876847
+
+[[21]]$crand
+[1] -0.02585034
+
+
+[[22]]
+[[22]]$diag
+[1] 0.4137931
+
+[[22]]$kappa
+[1] -0.176611
+
+[[22]]$rand
+[1] 0.4975369
+
+[[22]]$crand
+[1] -0.005780347
+
+
+[[23]]
+[[23]]$diag
+[1] 0.5
+
+[[23]]$kappa
+[1] 0
+
+[[23]]$rand
+[1] 0.4827586
+
+[[23]]$crand
+[1] 0
+
+
+[[24]]
+[[24]]$diag
+[1] 0.4285714
+
+[[24]]$kappa
+[1] -0.1370558
+
+[[24]]$rand
+[1] 0.4920635
+
+[[24]]$crand
+[1] -0.01689786
+
+
+[[25]]
+[[25]]$diag
+[1] 0.5172414
+
+[[25]]$kappa
+[1] 0.02870813
+
+[[25]]$rand
+[1] 0.4827586
+
+[[25]]$crand
+[1] -0.03465851
+
+
+[[26]]
+[[26]]$diag
+[1] 0.5
+
+[[26]]$kappa
+[1] 0
+
+[[26]]$rand
+[1] 0.4814815
+
+[[26]]$crand
+[1] 0
+
+
+[[27]]
+[[27]]$diag
+[1] 0.5
+
+[[27]]$kappa
+[1] 0
+
+[[27]]$rand
+[1] 0.4827586
+
+[[27]]$crand
+[1] 0
+
+
+[[28]]
+[[28]]$diag
+[1] 0.5925926
+
+[[28]]$kappa
+[1] 0.195122
+
+[[28]]$rand
+[1] 0.4985755
+
+[[28]]$crand
+[1] 0
+
+
+[[29]]
+[[29]]$diag
+[1] 0.5357143
+
+[[29]]$kappa
+[1] 0.05208333
+
+[[29]]$rand
+[1] 0.484127
+
+[[29]]$crand
+[1] -0.03018868
+
+
+[[30]]
+[[30]]$diag
+[1] 0.5172414
+
+[[30]]$kappa
+[1] 0.02870813
+
+[[30]]$rand
+[1] 0.4827586
+
+[[30]]$crand
+[1] -0.03465851
+
+
+[[31]]
+[1] 0.2223715
+
+[[32]]
+[1] -0.4077502
+
+[[33]]
+[1] 0.6840936
+
+[[34]]
+[1] 0.1527252
+
+[[35]]
+[1] -0.214061
+
+[[36]]
+[1] 0.5263446
+
+[[37]]
+[1] 0.3796798
+
+[[38]]
+[1] 0.6031505
+
+[[39]]
+[1] 0.4444698
+
+[[40]]
+[1] 0.4521934
+
+[[41]]
+[1] 0.05098653
+
+[[42]]
+[1] 0.05906177
+
+[[43]]
+[1] 0.2358307
+
+[[44]]
+[1] 0.005749418
+
+[[45]]
+[1] 0.01481616
+
+[[46]]
+[1] 0.4033295
+
+[[47]]
+[1] 0.1571851
+
+[[48]]
+[1] 0.06461923
+
+[[49]]
+[1] 0.02488764
+
+[[50]]
+[1] 0.1004746
+
+[[51]]
+ [1] FALSE  TRUE FALSE FALSE FALSE FALSE  TRUE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE
+[15] FALSE FALSE  TRUE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE
+[29]  TRUE
+
+[[52]]
+ [1]  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE  TRUE FALSE
+[15]  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE FALSE FALSE
+[29] FALSE
+
+[[53]]
+ [1] FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE FALSE  TRUE
+[15] FALSE  TRUE FALSE  TRUE FALSE FALSE FALSE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[29] FALSE  TRUE
+
+[[54]]
+ [1] FALSE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE FALSE FALSE FALSE FALSE FALSE  TRUE
+[15]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE  TRUE FALSE FALSE
+
+[[55]]
+ [1] FALSE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE
+[15]  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE FALSE FALSE
+[29]  TRUE
+
+[[56]]
+ [1]  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE
+[15]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE FALSE  TRUE  TRUE FALSE FALSE
+
+[[57]]
+ [1] FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE  TRUE
+[15]  TRUE  TRUE FALSE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[29] FALSE FALSE
+
+[[58]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE FALSE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE
+[15]  TRUE  TRUE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE
+
+[[59]]
+ [1] FALSE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE FALSE  TRUE
+[15]  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE FALSE  TRUE
+
+[[60]]
+ [1] FALSE  TRUE FALSE  TRUE FALSE FALSE FALSE FALSE FALSE  TRUE FALSE FALSE FALSE  TRUE
+[15]  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE FALSE FALSE
+[29]  TRUE
+
+[[61]]
+acc_agreement
+FALSE  TRUE 
+   13    16 
+
+[[62]]
+acc_agreement
+FALSE  TRUE 
+   17    12 
+
+[[63]]
+acc_agreement
+FALSE  TRUE 
+   15    15 
+
+[[64]]
+acc_agreement
+FALSE  TRUE 
+   16    12 
+
+[[65]]
+acc_agreement
+FALSE  TRUE 
+   14    15 
+
+[[66]]
+acc_agreement
+FALSE  TRUE 
+   14    14 
+
+[[67]]
+acc_agreement
+FALSE  TRUE 
+   15    15 
+
+[[68]]
+acc_agreement
+FALSE  TRUE 
+   11    16 
+
+[[69]]
+acc_agreement
+FALSE  TRUE 
+   13    15 
+
+[[70]]
+acc_agreement
+FALSE  TRUE 
+   14    15 
+
+[[71]]
+acc_agreement
+    FALSE      TRUE 
+0.4482759 0.5517241 
+
+[[72]]
+acc_agreement
+    FALSE      TRUE 
+0.5862069 0.4137931 
+
+[[73]]
+acc_agreement
+FALSE  TRUE 
+  0.5   0.5 
+
+[[74]]
+acc_agreement
+    FALSE      TRUE 
+0.5714286 0.4285714 
+
+[[75]]
+acc_agreement
+    FALSE      TRUE 
+0.4827586 0.5172414 
+
+[[76]]
+acc_agreement
+FALSE  TRUE 
+  0.5   0.5 
+
+[[77]]
+acc_agreement
+FALSE  TRUE 
+  0.5   0.5 
+
+[[78]]
+acc_agreement
+    FALSE      TRUE 
+0.4074074 0.5925926 
+
+[[79]]
+acc_agreement
+    FALSE      TRUE 
+0.4642857 0.5357143 
+
+[[80]]
+acc_agreement
+    FALSE      TRUE 
+0.4827586 0.5172414 
+
+[[81]]
+[1] 0.5714286
+
+[[82]]
+[1] 0.5571429
+
+[[83]]
+[1] 0.5
+
+[[84]]
+[1] 0.5428571
+
+[[85]]
+[1] 0.4714286
+
+[[86]]
+[1] 0.5
+
+[[87]]
+[1] 0.5
+
+[[88]]
+[1] 0.5285714
+
+[[89]]
+[1] 0.5285714
+
+[[90]]
+[1] 0.5
+
+[[91]]
+    true
+pred  1  2
+   1 14  9
+   2 21 26
+
+[[92]]
+    true
+pred  1  2
+   1 12  8
+   2 23 27
+
+[[93]]
+    true
+pred  1  2
+   1 35 35
+   2  0  0
+
+[[94]]
+    true
+pred  1  2
+   1 13 10
+   2 22 25
+
+[[95]]
+    true
+pred  1  2
+   1 14 16
+   2 21 19
+
+[[96]]
+    true
+pred  1  2
+   1 35 35
+   2  0  0
+
+[[97]]
+    true
+pred  1  2
+   1 35 35
+   2  0  0
+
+[[98]]
+    true
+pred  1  2
+   1 14 12
+   2 21 23
+
+[[99]]
+    true
+pred  1  2
+   1 14 12
+   2 21 23
+
+[[100]]
+    true
+pred  1  2
+   1 14 14
+   2 21 21
+
+[[101]]
+[[101]]$diag
+[1] 0.5714286
+
+[[101]]$kappa
+[1] 0.1428571
+
+[[101]]$rand
+[1] 0.5031056
+
+[[101]]$crand
+[1] 0.007717751
+
+
+[[102]]
+[[102]]$diag
+[1] 0.5571429
+
+[[102]]$kappa
+[1] 0.1142857
+
+[[102]]$rand
+[1] 0.4993789
+
+[[102]]$crand
+[1] 0.001245136
+
+
+[[103]]
+[[103]]$diag
+[1] 0.5
+
+[[103]]$kappa
+[1] 0
+
+[[103]]$rand
+[1] 0.4927536
+
+[[103]]$crand
+[1] 0
+
+
+[[104]]
+[[104]]$diag
+[1] 0.5428571
+
+[[104]]$kappa
+[1] 0.08571429
+
+[[104]]$rand
+[1] 0.4964803
+
+[[104]]$crand
+[1] -0.005512679
+
+
+[[105]]
+[[105]]$diag
+[1] 0.4714286
+
+[[105]]$kappa
+[1] -0.05714286
+
+[[105]]$rand
+[1] 0.4944099
+
+[[105]]$crand
+[1] -0.01108911
+
+
+[[106]]
+[[106]]$diag
+[1] 0.5
+
+[[106]]$kappa
+[1] 0
+
+[[106]]$rand
+[1] 0.4927536
+
+[[106]]$crand
+[1] 0
+
+
+[[107]]
+[[107]]$diag
+[1] 0.5
+
+[[107]]$kappa
+[1] 0
+
+[[107]]$rand
+[1] 0.4927536
+
+[[107]]$crand
+[1] 0
+
+
+[[108]]
+[[108]]$diag
+[1] 0.5285714
+
+[[108]]$kappa
+[1] 0.05714286
+
+[[108]]$rand
+[1] 0.4944099
+
+[[108]]$crand
+[1] -0.01041005
+
+
+[[109]]
+[[109]]$diag
+[1] 0.5285714
+
+[[109]]$kappa
+[1] 0.05714286
+
+[[109]]$rand
+[1] 0.4944099
+
+[[109]]$crand
+[1] -0.01041005
+
+
+[[110]]
+[[110]]$diag
+[1] 0.5
+
+[[110]]$kappa
+[1] 0
+
+[[110]]$rand
+[1] 0.4927536
+
+[[110]]$crand
+[1] -0.01410935
+
+
+[[111]]
+[1] 0.2223715
+
+[[112]]
+[1] -0.4077502
+
+[[113]]
+[1] 0.6840936
+
+[[114]]
+[1] 0.1527252
+
+[[115]]
+[1] -0.214061
+
+[[116]]
+[1] 0.5263446
+
+[[117]]
+[1] 0.3796798
+
+[[118]]
+[1] 0.6031505
+
+[[119]]
+[1] 0.4444698
+
+[[120]]
+[1] 0.4521934
+
+[[121]]
+[1] 0.05098653
+
+[[122]]
+[1] 0.05906177
+
+[[123]]
+[1] 0.2358307
+
+[[124]]
+[1] 0.005749418
+
+[[125]]
+[1] 0.01481616
+
+[[126]]
+[1] 0.4033295
+
+[[127]]
+[1] 0.1571851
+
+[[128]]
+[1] 0.06461923
+
+[[129]]
+[1] 0.02488764
+
+[[130]]
+[1] 0.1004746
+
+[[131]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE FALSE FALSE FALSE  TRUE
+[15]  TRUE FALSE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE
+[29]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE
+[43]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE FALSE FALSE  TRUE FALSE FALSE FALSE  TRUE
+[57] FALSE  TRUE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE
+
+[[132]]
+ [1]  TRUE FALSE FALSE FALSE  TRUE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE FALSE  TRUE
+[15]  TRUE FALSE  TRUE FALSE FALSE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE  TRUE
+[29]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE FALSE  TRUE FALSE
+[43]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE  TRUE
+[57] FALSE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE FALSE FALSE FALSE FALSE  TRUE  TRUE
+
+[[133]]
+ [1] FALSE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE
+[15]  TRUE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE
+[29] FALSE FALSE FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE
+[43] FALSE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE
+[57]  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE  TRUE
+
+[[134]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE  TRUE  TRUE  TRUE  TRUE
+[15]  TRUE FALSE  TRUE FALSE FALSE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE
+[29]  TRUE  TRUE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE
+[43]  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE
+[57] FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE
+
+[[135]]
+ [1]  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE
+[15]  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE FALSE FALSE
+[29]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE  TRUE FALSE  TRUE  TRUE
+[43] FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE FALSE
+[57] FALSE  TRUE  TRUE  TRUE FALSE FALSE  TRUE FALSE FALSE FALSE  TRUE FALSE  TRUE  TRUE
+
+[[136]]
+ [1] FALSE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE
+[15]  TRUE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE
+[29] FALSE FALSE FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE
+[43] FALSE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE
+[57]  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE  TRUE
+
+[[137]]
+ [1] FALSE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE
+[15]  TRUE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE FALSE FALSE  TRUE
+[29] FALSE FALSE FALSE  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE
+[43] FALSE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE
+[57]  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE FALSE  TRUE
+
+[[138]]
+ [1]  TRUE FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE
+[15]  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE
+[29]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE FALSE  TRUE FALSE  TRUE  TRUE
+[43] FALSE  TRUE  TRUE  TRUE FALSE FALSE  TRUE FALSE FALSE FALSE FALSE  TRUE FALSE FALSE
+[57] FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE
+
+[[139]]
+ [1]  TRUE FALSE  TRUE FALSE  TRUE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE
+[15]  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE FALSE
+[29]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE  TRUE  TRUE FALSE  TRUE FALSE
+[43]  TRUE  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE FALSE
+[57] FALSE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE FALSE  TRUE  TRUE
+
+[[140]]
+ [1]  TRUE FALSE  TRUE FALSE  TRUE  TRUE FALSE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE
+[15]  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE  TRUE  TRUE FALSE
+[29]  TRUE  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE  TRUE FALSE  TRUE FALSE  TRUE  TRUE
+[43] FALSE  TRUE  TRUE FALSE FALSE FALSE  TRUE FALSE FALSE FALSE FALSE  TRUE FALSE FALSE
+[57] FALSE  TRUE FALSE  TRUE FALSE FALSE FALSE  TRUE FALSE FALSE  TRUE FALSE  TRUE  TRUE
+
+[[141]]
+validation_acc_agreement
+FALSE  TRUE 
+   30    40 
+
+[[142]]
+validation_acc_agreement
+FALSE  TRUE 
+   31    39 
+
+[[143]]
+validation_acc_agreement
+FALSE  TRUE 
+   35    35 
+
+[[144]]
+validation_acc_agreement
+FALSE  TRUE 
+   32    38 
+
+[[145]]
+validation_acc_agreement
+FALSE  TRUE 
+   37    33 
+
+[[146]]
+validation_acc_agreement
+FALSE  TRUE 
+   35    35 
+
+[[147]]
+validation_acc_agreement
+FALSE  TRUE 
+   35    35 
+
+[[148]]
+validation_acc_agreement
+FALSE  TRUE 
+   33    37 
+
+[[149]]
+validation_acc_agreement
+FALSE  TRUE 
+   33    37 
+
+[[150]]
+validation_acc_agreement
+FALSE  TRUE 
+   35    35 
+
+[[151]]
+validation_acc_agreement
+    FALSE      TRUE 
+0.4285714 0.5714286 
+
+[[152]]
+validation_acc_agreement
+    FALSE      TRUE 
+0.4428571 0.5571429 
+
+[[153]]
+validation_acc_agreement
+FALSE  TRUE 
+  0.5   0.5 
+
+[[154]]
+validation_acc_agreement
+    FALSE      TRUE 
+0.4571429 0.5428571 
+
+[[155]]
+validation_acc_agreement
+    FALSE      TRUE 
+0.5285714 0.4714286 
+
+[[156]]
+validation_acc_agreement
+FALSE  TRUE 
+  0.5   0.5 
+
+[[157]]
+validation_acc_agreement
+FALSE  TRUE 
+  0.5   0.5 
+
+[[158]]
+validation_acc_agreement
+    FALSE      TRUE 
+0.4714286 0.5285714 
+
+[[159]]
+validation_acc_agreement
+    FALSE      TRUE 
+0.4714286 0.5285714 
+
+[[160]]
+validation_acc_agreement
+FALSE  TRUE 
+  0.5   0.5 
+

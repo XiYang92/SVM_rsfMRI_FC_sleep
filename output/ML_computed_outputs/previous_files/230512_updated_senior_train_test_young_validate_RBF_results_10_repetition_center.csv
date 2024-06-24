@@ -1,0 +1,844 @@
+[[1]]
+[1] 0.9166667
+
+[[2]]
+[1] 0.9545455
+
+[[3]]
+[1] 0.9545455
+
+[[4]]
+[1] 0.9583333
+
+[[5]]
+[1] 1
+
+[[6]]
+[1] 1
+
+[[7]]
+[1] 0.9583333
+
+[[8]]
+[1] 1
+
+[[9]]
+[1] 0.9166667
+
+[[10]]
+[1] 0.9583333
+
+[[11]]
+    true
+pred  1  2
+   1 12  2
+   2  0 10
+
+[[12]]
+    true
+pred  1  2
+   1 11  1
+   2  0 10
+
+[[13]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[14]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[15]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[16]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[17]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[18]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[19]]
+    true
+pred  1  2
+   1 10  0
+   2  2 12
+
+[[20]]
+    true
+pred  1  2
+   1 12  1
+   2  0 11
+
+[[21]]
+[[21]]$diag
+[1] 0.9166667
+
+[[21]]$kappa
+[1] 0.8333333
+
+[[21]]$rand
+[1] 0.8405797
+
+[[21]]$crand
+[1] 0.6809584
+
+
+[[22]]
+[[22]]$diag
+[1] 0.9545455
+
+[[22]]$kappa
+[1] 0.9090909
+
+[[22]]$rand
+[1] 0.9090909
+
+[[22]]$crand
+[1] 0.8178439
+
+
+[[23]]
+[[23]]$diag
+[1] 0.9545455
+
+[[23]]$kappa
+[1] 0.9090909
+
+[[23]]$rand
+[1] 0.9090909
+
+[[23]]$crand
+[1] 0.8178439
+
+
+[[24]]
+[[24]]$diag
+[1] 0.9583333
+
+[[24]]$kappa
+[1] 0.9166667
+
+[[24]]$rand
+[1] 0.9166667
+
+[[24]]$crand
+[1] 0.8330704
+
+
+[[25]]
+[[25]]$diag
+[1] 1
+
+[[25]]$kappa
+[1] 1
+
+[[25]]$rand
+[1] 1
+
+[[25]]$crand
+[1] 1
+
+
+[[26]]
+[[26]]$diag
+[1] 1
+
+[[26]]$kappa
+[1] 1
+
+[[26]]$rand
+[1] 1
+
+[[26]]$crand
+[1] 1
+
+
+[[27]]
+[[27]]$diag
+[1] 0.9583333
+
+[[27]]$kappa
+[1] 0.9166667
+
+[[27]]$rand
+[1] 0.9166667
+
+[[27]]$crand
+[1] 0.8330704
+
+
+[[28]]
+[[28]]$diag
+[1] 1
+
+[[28]]$kappa
+[1] 1
+
+[[28]]$rand
+[1] 1
+
+[[28]]$crand
+[1] 1
+
+
+[[29]]
+[[29]]$diag
+[1] 0.9166667
+
+[[29]]$kappa
+[1] 0.8333333
+
+[[29]]$rand
+[1] 0.8405797
+
+[[29]]$crand
+[1] 0.6809584
+
+
+[[30]]
+[[30]]$diag
+[1] 0.9583333
+
+[[30]]$kappa
+[1] 0.9166667
+
+[[30]]$rand
+[1] 0.9166667
+
+[[30]]$crand
+[1] 0.8330704
+
+
+[[31]]
+NULL
+
+[[32]]
+NULL
+
+[[33]]
+NULL
+
+[[34]]
+NULL
+
+[[35]]
+NULL
+
+[[36]]
+NULL
+
+[[37]]
+NULL
+
+[[38]]
+NULL
+
+[[39]]
+NULL
+
+[[40]]
+NULL
+
+[[41]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[42]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[43]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[44]]
+ [1]  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[45]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[46]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[47]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[48]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[49]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[50]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[51]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[52]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[53]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[54]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[55]]
+acc_agreement
+TRUE 
+  24 
+
+[[56]]
+acc_agreement
+TRUE 
+  24 
+
+[[57]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[58]]
+acc_agreement
+TRUE 
+  22 
+
+[[59]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[60]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[61]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[62]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[63]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[64]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[65]]
+acc_agreement
+TRUE 
+   1 
+
+[[66]]
+acc_agreement
+TRUE 
+   1 
+
+[[67]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[68]]
+acc_agreement
+TRUE 
+   1 
+
+[[69]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[70]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[71]]
+[1] 0.9634146
+
+[[72]]
+[1] 1
+
+[[73]]
+[1] 1
+
+[[74]]
+[1] 1
+
+[[75]]
+[1] 0.9756098
+
+[[76]]
+[1] 1
+
+[[77]]
+[1] 1
+
+[[78]]
+[1] 1
+
+[[79]]
+[1] 0.9634146
+
+[[80]]
+[1] 0.9390244
+
+[[81]]
+    true
+pred  1  2
+   1 41  3
+   2  0 38
+
+[[82]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[83]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[84]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[85]]
+    true
+pred  1  2
+   1 41  2
+   2  0 39
+
+[[86]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[87]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[88]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[89]]
+    true
+pred  1  2
+   1 38  0
+   2  3 41
+
+[[90]]
+    true
+pred  1  2
+   1 41  5
+   2  0 36
+
+[[91]]
+[[91]]$diag
+[1] 0.9634146
+
+[[91]]$kappa
+[1] 0.9268293
+
+[[91]]$rand
+[1] 0.928636
+
+[[91]]$crand
+[1] 0.8572597
+
+
+[[92]]
+[[92]]$diag
+[1] 1
+
+[[92]]$kappa
+[1] 1
+
+[[92]]$rand
+[1] 1
+
+[[92]]$crand
+[1] 1
+
+
+[[93]]
+[[93]]$diag
+[1] 1
+
+[[93]]$kappa
+[1] 1
+
+[[93]]$rand
+[1] 1
+
+[[93]]$crand
+[1] 1
+
+
+[[94]]
+[[94]]$diag
+[1] 1
+
+[[94]]$kappa
+[1] 1
+
+[[94]]$rand
+[1] 1
+
+[[94]]$crand
+[1] 1
+
+
+[[95]]
+[[95]]$diag
+[1] 0.9756098
+
+[[95]]$kappa
+[1] 0.9512195
+
+[[95]]$rand
+[1] 0.9518217
+
+[[95]]$crand
+[1] 0.9036317
+
+
+[[96]]
+[[96]]$diag
+[1] 1
+
+[[96]]$kappa
+[1] 1
+
+[[96]]$rand
+[1] 1
+
+[[96]]$crand
+[1] 1
+
+
+[[97]]
+[[97]]$diag
+[1] 1
+
+[[97]]$kappa
+[1] 1
+
+[[97]]$rand
+[1] 1
+
+[[97]]$crand
+[1] 1
+
+
+[[98]]
+[[98]]$diag
+[1] 1
+
+[[98]]$kappa
+[1] 1
+
+[[98]]$rand
+[1] 1
+
+[[98]]$crand
+[1] 1
+
+
+[[99]]
+[[99]]$diag
+[1] 0.9634146
+
+[[99]]$kappa
+[1] 0.9268293
+
+[[99]]$rand
+[1] 0.928636
+
+[[99]]$crand
+[1] 0.8572597
+
+
+[[100]]
+[[100]]$diag
+[1] 0.9390244
+
+[[100]]$kappa
+[1] 0.8780488
+
+[[100]]$rand
+[1] 0.8840711
+
+[[100]]$crand
+[1] 0.7681499
+
+
+[[101]]
+NULL
+
+[[102]]
+NULL
+
+[[103]]
+NULL
+
+[[104]]
+NULL
+
+[[105]]
+NULL
+
+[[106]]
+NULL
+
+[[107]]
+NULL
+
+[[108]]
+NULL
+
+[[109]]
+NULL
+
+[[110]]
+NULL
+
+[[111]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[27]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[40]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[53]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[66] FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE
+[79]  TRUE  TRUE  TRUE  TRUE
+
+[[112]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[33] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[65] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[81] TRUE TRUE
+
+[[113]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[33] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[65] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[81] TRUE TRUE
+
+[[114]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[33] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[65] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[81] TRUE TRUE
+
+[[115]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[27]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[40]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[53]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[66]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE
+[79]  TRUE  TRUE  TRUE  TRUE
+
+[[116]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[33] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[65] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[81] TRUE TRUE
+
+[[117]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[33] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[65] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[81] TRUE TRUE
+
+[[118]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[33] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[49] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[65] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[81] TRUE TRUE
+
+[[119]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE
+[27]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE
+[40]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[53]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[66]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[79]  TRUE  TRUE  TRUE  TRUE
+
+[[120]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[27]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[40]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[53]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE
+[66]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE
+[79]  TRUE  TRUE  TRUE FALSE
+
+[[121]]
+validation_acc_agreement
+FALSE  TRUE 
+    3    79 
+
+[[122]]
+validation_acc_agreement
+TRUE 
+  82 
+
+[[123]]
+validation_acc_agreement
+TRUE 
+  82 
+
+[[124]]
+validation_acc_agreement
+TRUE 
+  82 
+
+[[125]]
+validation_acc_agreement
+FALSE  TRUE 
+    2    80 
+
+[[126]]
+validation_acc_agreement
+TRUE 
+  82 
+
+[[127]]
+validation_acc_agreement
+TRUE 
+  82 
+
+[[128]]
+validation_acc_agreement
+TRUE 
+  82 
+
+[[129]]
+validation_acc_agreement
+FALSE  TRUE 
+    3    79 
+
+[[130]]
+validation_acc_agreement
+FALSE  TRUE 
+    5    77 
+
+[[131]]
+validation_acc_agreement
+     FALSE       TRUE 
+0.03658537 0.96341463 
+
+[[132]]
+validation_acc_agreement
+TRUE 
+   1 
+
+[[133]]
+validation_acc_agreement
+TRUE 
+   1 
+
+[[134]]
+validation_acc_agreement
+TRUE 
+   1 
+
+[[135]]
+validation_acc_agreement
+     FALSE       TRUE 
+0.02439024 0.97560976 
+
+[[136]]
+validation_acc_agreement
+TRUE 
+   1 
+
+[[137]]
+validation_acc_agreement
+TRUE 
+   1 
+
+[[138]]
+validation_acc_agreement
+TRUE 
+   1 
+
+[[139]]
+validation_acc_agreement
+     FALSE       TRUE 
+0.03658537 0.96341463 
+
+[[140]]
+validation_acc_agreement
+     FALSE       TRUE 
+0.06097561 0.93902439 
+

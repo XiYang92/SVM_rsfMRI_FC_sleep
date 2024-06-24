@@ -1,0 +1,258 @@
+3,"  [1] ""'networks.DefaultMode.LP (R) (47",-67,29)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                "
+4,"  [2] ""'networks.DefaultMode.PCC (1",-61,38)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                    "
+5,"  [3] ""'networks.DefaultMode.PCC (1",-61,38)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                     "
+6,"  [4] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.DorsalAttention.FEF (L)  (-27,-9,"64)""                                      "
+7,"  [5] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.DorsalAttention.FEF (L)  (-27,-9,"64)""                                    "
+8,"  [6] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.DorsalAttention.FEF (R)  (30,-6,"64)""                                     "
+9,"  [7] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.DorsalAttention.FEF (L)  (-27,-9,"64)""                                     "
+10,"  [8] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.DorsalAttention.FEF (R)  (30,-6,"64)""                                      "
+11,"  [9] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.DorsalAttention.IPS (L)  (-39,-43,"52)""                                    "
+12," [10] ""'networks.Salience.AInsula (L) (-44",13,1)'_networks.Salience.ACC (0,22,"35)""                                                        "
+13," [11] ""'networks.Salience.AInsula (R) (47",14,0)'_networks.Salience.ACC (0,22,"35)""                                                         "
+14," [12] ""'networks.Salience.AInsula (R) (47",14,0)'_networks.Salience.AInsula (L) (-44,13,"1)""                                                "
+15," [13] ""'networks.Salience.RPFC (L) (-32",45,27)'_networks.Salience.ACC (0,22,"35)""                                                          "
+16," [14] ""'networks.Salience.RPFC (L) (-32",45,27)'_networks.Salience.AInsula (L) (-44,13,"1)""                                                 "
+17," [15] ""'networks.Salience.RPFC (L) (-32",45,27)'_networks.Salience.AInsula (R) (47,14,"0)""                                                  "
+18," [16] ""'networks.Salience.RPFC (R) (32",46,27)'_networks.Salience.ACC (0,22,"35)""                                                           "
+19," [17] ""'networks.Salience.RPFC (R) (32",46,27)'_networks.Salience.AInsula (L) (-44,13,"1)""                                                  "
+20," [18] ""'networks.Salience.RPFC (R) (32",46,27)'_networks.Salience.AInsula (R) (47,14,"0)""                                                   "
+21," [19] ""'networks.Salience.RPFC (R) (32",46,27)'_networks.Salience.RPFC (L) (-32,45,"27)""                                                    "
+22," [20] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.Salience.ACC (0,22,"35)""                                                          "
+23," [21] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.Salience.AInsula (L) (-44,13,"1)""                                                 "
+24," [22] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.Salience.AInsula (R) (47,14,"0)""                                                  "
+25," [23] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.Salience.RPFC (L) (-32,45,"27)""                                                   "
+26," [24] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.Salience.RPFC (R) (32,46,"27)""                                                    "
+27," [25] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.Salience.ACC (0,22,"35)""                                                           "
+28," [26] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.Salience.AInsula (L) (-44,13,"1)""                                                  "
+29," [27] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.Salience.AInsula (R) (47,14,"0)""                                                   "
+30," [28] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.Salience.RPFC (L) (-32,45,"27)""                                                    "
+31," [29] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.Salience.RPFC (R) (32,46,"27)""                                                     "
+32," [30] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.Salience.SMG (L) (-60,-39,"31)""                                                    "
+33," [31] ""'atlas.AG r (Angular Gyrus Right)'_atlas.aSMG r (Supramarginal Gyrus"," anterior division Right)""                                    ",,,
+34," [32] ""'atlas.AG r (Angular Gyrus Right)'_atlas.pSMG r (Supramarginal Gyrus"," posterior division Right)""                                   ",,,
+35," [33] ""'atlas.AG r (Angular Gyrus Right)'_networks.Salience.SMG (R) (62",-35,"32)""                                                          ",,
+36," [34] ""'atlas.Precuneous (Precuneous Cortex)'_atlas.PC (Cingulate Gyrus"," posterior division)""                                             ",,,
+37," [35] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.Salience.ACC (0,22,"35)""                                                   "
+38," [36] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.Salience.AInsula (L) (-44,13,"1)""                                          "
+39," [37] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.Salience.AInsula (R) (47,14,"0)""                                           "
+40," [38] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.Salience.RPFC (L) (-32,45,"27)""                                            "
+41," [39] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.Salience.RPFC (R) (32,46,"27)""                                             "
+42," [40] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.Salience.SMG (L) (-60,-39,"31)""                                            "
+43," [41] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.Salience.SMG (R) (62,-35,"32)""                                             "
+44," [42] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.Salience.ACC (0,22,"35)""                                                    "
+45," [43] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.Salience.AInsula (L) (-44,13,"1)""                                           "
+46," [44] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.Salience.AInsula (R) (47,14,"0)""                                            "
+47," [45] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.Salience.RPFC (L) (-32,45,"27)""                                             "
+48," [46] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.Salience.RPFC (R) (32,46,"27)""                                              "
+49," [47] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.Salience.SMG (L) (-60,-39,"31)""                                             "
+50," [48] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.Salience.SMG (R) (62,-35,"32)""                                              "
+51," [49] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.Salience.ACC (0,22,"35)""                                                  "
+52," [50] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.Salience.AInsula (L) (-44,13,"1)""                                         "
+53," [51] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.Salience.AInsula (R) (47,14,"0)""                                          "
+54," [52] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.Salience.RPFC (L) (-32,45,"27)""                                           "
+55," [53] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.Salience.RPFC (R) (32,46,"27)""                                            "
+56," [54] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.Salience.SMG (L) (-60,-39,"31)""                                           "
+57," [55] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.Salience.SMG (R) (62,-35,"32)""                                            "
+58," [56] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.Salience.ACC (0,22,"35)""                                                   "
+59," [57] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.Salience.AInsula (L) (-44,13,"1)""                                          "
+60," [58] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.Salience.AInsula (R) (47,14,"0)""                                           "
+61," [59] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.Salience.RPFC (L) (-32,45,"27)""                                            "
+62," [60] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.Salience.RPFC (R) (32,46,"27)""                                             "
+63," [61] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.Salience.SMG (L) (-60,-39,"31)""                                            "
+64," [62] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.Salience.SMG (R) (62,-35,"32)""                                             "
+65," [63] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                          "
+66," [64] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                           "
+67," [65] ""'networks.DorsalAttention.FEF (L)  (-27",-9,64)'_networks.DefaultMode.PCC (1,-61,"38)""                                               "
+68," [66] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                           "
+69," [67] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                            "
+70," [68] ""'networks.DorsalAttention.FEF (R)  (30",-6,64)'_networks.DefaultMode.PCC (1,-61,"38)""                                                "
+71," [69] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                         "
+72," [70] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                          "
+73," [71] ""'networks.DorsalAttention.IPS (L)  (-39",-43,52)'_networks.DefaultMode.PCC (1,-61,"38)""                                              "
+74," [72] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                          "
+75," [73] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                           "
+76," [74] ""'networks.DorsalAttention.IPS (R)  (39",-42,54)'_networks.DefaultMode.PCC (1,-61,"38)""                                               "
+77," [75] ""'networks.Salience.ACC (0",22,35)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                        "
+78," [76] ""'networks.Salience.ACC (0",22,35)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                         "
+79," [77] ""'networks.Salience.ACC (0",22,35)'_networks.DefaultMode.PCC (1,-61,"38)""                                                             "
+80," [78] ""'networks.Salience.AInsula (L) (-44",13,1)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                               "
+81," [79] ""'networks.Salience.AInsula (L) (-44",13,1)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                "
+82," [80] ""'networks.Salience.AInsula (L) (-44",13,1)'_networks.DefaultMode.PCC (1,-61,"38)""                                                    "
+83," [81] ""'networks.Salience.AInsula (R) (47",14,0)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                "
+84," [82] ""'networks.Salience.AInsula (R) (47",14,0)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                 "
+85," [83] ""'networks.Salience.AInsula (R) (47",14,0)'_networks.DefaultMode.PCC (1,-61,"38)""                                                     "
+86," [84] ""'networks.Salience.RPFC (L) (-32",45,27)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                 "
+87," [85] ""'networks.Salience.RPFC (L) (-32",45,27)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                  "
+88," [86] ""'networks.Salience.RPFC (L) (-32",45,27)'_networks.DefaultMode.PCC (1,-61,"38)""                                                      "
+89," [87] ""'networks.Salience.RPFC (R) (32",46,27)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                  "
+90," [88] ""'networks.Salience.RPFC (R) (32",46,27)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                   "
+91," [89] ""'networks.Salience.RPFC (R) (32",46,27)'_networks.DefaultMode.PCC (1,-61,"38)""                                                       "
+92," [90] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                 "
+93," [91] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                  "
+94," [92] ""'networks.Salience.SMG (L) (-60",-39,31)'_networks.DefaultMode.PCC (1,-61,"38)""                                                      "
+95," [93] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.DefaultMode.LP (L) (-39,-77,"33)""                                                  "
+96," [94] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.DefaultMode.LP (R) (47,-67,"29)""                                                   "
+97," [95] ""'networks.Salience.SMG (R) (62",-35,32)'_networks.DefaultMode.PCC (1,-61,"38)""                                                       "
+98," [96] ""'atlas.Amygdala r'_networks.DefaultMode.PCC (1",-61,"38)""                                                                            ",,
+99," [97] ""'atlas.Amygdala r'_networks.Salience.ACC (0",22,"35)""                                                                                ",,
+100," [98] ""'atlas.Amygdala r'_networks.Language.IFG (R) (54",28,"1)""                                                                            ",,
+101," [99] ""'atlas.Amygdala r'_atlas.MidFG r (Middle Frontal Gyrus Right)""                                                                     ",,,,
+102,"[100] ""'atlas.Amygdala r'_atlas.MidFG l (Middle Frontal Gyrus Left)""                                                                      ",,,,
+103,"[101] ""'atlas.Amygdala r'_atlas.IFG tri r (Inferior Frontal Gyrus"," pars triangularis Right)""                                              ",,,
+104,"[102] ""'atlas.Amygdala r'_atlas.IFG oper r (Inferior Frontal Gyrus"," pars opercularis Right)""                                              ",,,
+105,"[103] ""'atlas.Amygdala r'_atlas.PreCG r (Precentral Gyrus Right)""                                                                         ",,,,
+106,"[104] ""'atlas.Amygdala r'_atlas.MedFC (Frontal Medial Cortex)""                                                                            ",,,,
+107,"[105] ""'atlas.Amygdala r'_atlas.AC (Cingulate Gyrus"," anterior division)""                                                                  ",,,
+108,"[106] ""'atlas.Amygdala r'_atlas.PC (Cingulate Gyrus"," posterior division)""                                                                 ",,,
+109,"[107] ""'atlas.Amygdala r'_atlas.Precuneous (Precuneous Cortex)""                                                                           ",,,,
+110,"[108] ""'atlas.Amygdala r'_atlas.aPaHC r (Parahippocampal Gyrus"," anterior division Right)""                                                 ",,,
+111,"[109] ""'atlas.Amygdala r'_atlas.pPaHC r (Parahippocampal Gyrus"," posterior division Right)""                                                ",,,
+112,"[110] ""'atlas.Amygdala r'_atlas.SFG r (Superior Frontal Gyrus Right)""                                                                     ",,,,
+113,"[111] ""'atlas.Amygdala l'_networks.DefaultMode.PCC (1",-61,"38)""                                                                            ",,
+114,"[112] ""'atlas.Amygdala l'_networks.Salience.ACC (0",22,"35)""                                                                                ",,
+115,"[113] ""'atlas.Amygdala l'_networks.Language.IFG (R) (54",28,"1)""                                                                            ",,
+116,"[114] ""'atlas.Amygdala l'_atlas.MidFG r (Middle Frontal Gyrus Right)""                                                                     ",,,,
+117,"[115] ""'atlas.Amygdala l'_atlas.MidFG l (Middle Frontal Gyrus Left)""                                                                      ",,,,
+118,"[116] ""'atlas.Amygdala l'_atlas.IFG tri r (Inferior Frontal Gyrus"," pars triangularis Right)""                                              ",,,
+119,"[117] ""'atlas.Amygdala l'_atlas.IFG oper r (Inferior Frontal Gyrus"," pars opercularis Right)""                                              ",,,
+120,"[118] ""'atlas.Amygdala l'_atlas.PreCG r (Precentral Gyrus Right)""                                                                         ",,,,
+121,"[119] ""'atlas.Amygdala l'_atlas.AC (Cingulate Gyrus"," anterior division)""                                                                  ",,,
+122,"[120] ""'atlas.Amygdala l'_atlas.PC (Cingulate Gyrus"," posterior division)""                                                                 ",,,
+123,"[121] ""'atlas.Amygdala l'_atlas.Precuneous (Precuneous Cortex)""                                                                           ",,,,
+124,"[122] ""'atlas.Amygdala l'_atlas.aPaHC r (Parahippocampal Gyrus"," anterior division Right)""                                                 ",,,
+125,"[123] ""'atlas.Amygdala l'_atlas.pPaHC r (Parahippocampal Gyrus"," posterior division Right)""                                                ",,,
+126,"[124] ""'atlas.Amygdala l'_atlas.SFG r (Superior Frontal Gyrus Right)""                                                                     ",atlas.Amygdala r'_atlas.SFG l (Superior Frontal Gyrus Left),,,
+127,"[125] ""'atlas.AG r (Angular Gyrus Right)'_networks.Salience.SMG (L) (-60",-39,"31)""                                                         ",,
+128,"[126] ""'atlas.AG r (Angular Gyrus Right)'_atlas.aSMG l (Supramarginal Gyrus"," anterior division Left)""                                     ",,,
+129,"[127] ""'atlas.AG r (Angular Gyrus Right)'_atlas.pSMG l (Supramarginal Gyrus"," posterior division Left)""                                    ",,,
+130,"[128] ""'atlas.AG l (Angular Gyrus Left)'_atlas.aSMG r (Supramarginal Gyrus"," anterior division Right)""                                     ",,,
+131,"[129] ""'atlas.AG l (Angular Gyrus Left)'_atlas.pSMG r (Supramarginal Gyrus"," posterior division Right)""                                    ",,,
+132,"[130] ""'atlas.AG l (Angular Gyrus Left)'_atlas.AG r (Angular Gyrus Right)""                                                                ",,,,
+133,"[131] ""'atlas.aSTG r (Superior Temporal Gyrus", anterior division Right)'_networks.Salience.SMG (L) (-60,-39,"31)""                          ",
+134,"[132] ""'atlas.aSTG l (Superior Temporal Gyrus", anterior division Left)'_networks.Salience.SMG (L) (-60,-39,"31)""                           ",
+135,"[133] ""'atlas.pSTG r (Superior Temporal Gyrus", posterior division Right)'_networks.Salience.SMG (L) (-60,-39,"31)""                         ",
+136,"[134] ""'atlas.pSTG l (Superior Temporal Gyrus", posterior division Left)'_networks.Salience.SMG (L) (-60,-39,"31)""                          ",
+137,"[135] ""'atlas.aSMG l (Supramarginal Gyrus", anterior division Left)'_atlas.aSTG l (Superior Temporal Gyrus," anterior division Left)""       ",,
+138,"[136] ""'atlas.aSMG l (Supramarginal Gyrus", anterior division Left)'_atlas.aSTG r (Superior Temporal Gyrus," anterior division Right)""      ",,
+139,"[137] ""'atlas.aSMG l (Supramarginal Gyrus", anterior division Left)'_atlas.pSTG r (Superior Temporal Gyrus," posterior division Right)""     ",,
+140,"[138] ""'atlas.aSMG l (Supramarginal Gyrus", anterior division Left)'_atlas.pSTG l (Superior Temporal Gyrus," posterior division Left)""      ",,
+141,"[139] ""'atlas.pSMG l (Supramarginal Gyrus", posterior division Left)'_atlas.aSTG r (Superior Temporal Gyrus," anterior division Right)""     ",,
+142,"[140] ""'atlas.pSMG l (Supramarginal Gyrus", posterior division Left)'_atlas.aSTG l (Superior Temporal Gyrus," anterior division Left)""      ",,
+143,"[141] ""'atlas.pSMG l (Supramarginal Gyrus", posterior division Left)'_atlas.pSTG r (Superior Temporal Gyrus," posterior division Right)""    ",,
+144,"[142] ""'atlas.pSMG l (Supramarginal Gyrus", posterior division Left)'_atlas.pSTG l (Superior Temporal Gyrus," posterior division Left)""     ",,
+145,"[143] ""'atlas.AG l (Angular Gyrus Left)'_atlas.aSTG r (Superior Temporal Gyrus"," anterior division Right)""                                 ",,,
+146,"[144] ""'atlas.AG l (Angular Gyrus Left)'_atlas.aSTG l (Superior Temporal Gyrus"," anterior division Left)""                                  ",,,
+147,"[145] ""'atlas.AG l (Angular Gyrus Left)'_atlas.pSTG r (Superior Temporal Gyrus"," posterior division Right)""                                ",,,
+148,"[146] ""'atlas.AG l (Angular Gyrus Left)'_atlas.pSTG l (Superior Temporal Gyrus"," posterior division Left)""                                 ",,,
+149,"[147] ""'atlas.PC (Cingulate Gyrus", posterior division)'_atlas.aSMG r (Supramarginal Gyrus," anterior division Right)""                      ",,
+150,"[148] ""'atlas.Precuneous (Precuneous Cortex)'_atlas.aSMG r (Supramarginal Gyrus"," anterior division Right)""                                ",,,
+151,"[149] ""'atlas.PC (Cingulate Gyrus", posterior division)'_atlas.pSMG r (Supramarginal Gyrus," posterior division Right)""                     ",,
+152,"[150] ""'atlas.Precuneous (Precuneous Cortex)'_atlas.pSMG r (Supramarginal Gyrus"," posterior division Right)""                               ",,,
+153,"[151] ""'atlas.PC (Cingulate Gyrus"," posterior division)'_atlas.AG r (Angular Gyrus Right)""                                                 ",,,
+154,"[152] ""'atlas.Precuneous (Precuneous Cortex)'_atlas.AG r (Angular Gyrus Right)""                                                           ",,,,
+155,"[153] ""'atlas.PC (Cingulate Gyrus", posterior division)'_networks.Salience.SMG (R) (62,-35,"32)""                                            ",
+156,"[154] ""'atlas.Precuneous (Precuneous Cortex)'_networks.Salience.SMG (R) (62",-35,"32)""                                                      ",,
+157,"[155] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_networks.Salience.SMG (R) (62",-35,"32)""                                             ",,
+158,"[156] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_atlas.aSMG l (Supramarginal Gyrus"," anterior division Left)""                        ","[156] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_atlas.aSMG r (Supramarginal Gyrus",," anterior division Right)""                        "
+159,"[157] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_atlas.pSMG l (Supramarginal Gyrus"," posterior division Left)""                       ","[157] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_atlas.pSMG r (Supramarginal Gyrus",," posterior division Right)""                       "
+160,"[158] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_atlas.AG l (Angular Gyrus Left)""                                                   ","[158] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_atlas.AG r (Angular Gyrus Right)""                                                   ",,,
+161,"[159] ""'atlas.aSMG r (Supramarginal Gyrus", anterior division Right)'_atlas.aMTG l (Middle Temporal Gyrus," anterior division Left)""        ",,
+162,"[160] ""'atlas.aSMG r (Supramarginal Gyrus", anterior division Right)'_atlas.pMTG l (Middle Temporal Gyrus," posterior division Left)""       ",,
+163,"[161] ""'atlas.aSMG r (Supramarginal Gyrus", anterior division Right)'_atlas.toMTG l (Middle Temporal Gyrus," temporooccipital part Left)""   ",,
+164,"[162] ""'atlas.pSMG r (Supramarginal Gyrus", posterior division Right)'_atlas.aMTG l (Middle Temporal Gyrus," anterior division Left)""       ",,
+165,"[163] ""'atlas.pSMG r (Supramarginal Gyrus", posterior division Right)'_atlas.pMTG l (Middle Temporal Gyrus," posterior division Left)""      ",,
+166,"[164] ""'atlas.pSMG r (Supramarginal Gyrus", posterior division Right)'_atlas.toMTG l (Middle Temporal Gyrus," temporooccipital part Left)""  ",,
+167,"[165] ""'atlas.AG r (Angular Gyrus Right)'_atlas.aMTG l (Middle Temporal Gyrus"," anterior division Left)""                                   ",,,
+168,"[166] ""'atlas.AG r (Angular Gyrus Right)'_atlas.pMTG l (Middle Temporal Gyrus"," posterior division Left)""                                  ",,,
+169,"[167] ""'atlas.AG r (Angular Gyrus Right)'_atlas.toMTG l (Middle Temporal Gyrus"," temporooccipital part Left)""                              ",,,
+170,"[168] ""'atlas.aMTG l (Middle Temporal Gyrus", anterior division Left)'_networks.Salience.SMG (R) (62,-35,"32)""                              ",
+171,"[169] ""'atlas.pMTG l (Middle Temporal Gyrus", posterior division Left)'_networks.Salience.SMG (R) (62,-35,"32)""                             ",
+172,"[170] ""'atlas.toMTG l (Middle Temporal Gyrus", temporooccipital part Left)'_networks.Salience.SMG (R) (62,-35,"32)""                         ",
+173,"[171] ""'atlas.aITG l (Inferior Temporal Gyrus", anterior division Left)'_networks.Salience.SMG (R) (62,-35,"32)""                            ",
+174,"[172] ""'atlas.pITG l (Inferior Temporal Gyrus", posterior division Left)'_networks.Salience.SMG (R) (62,-35,"32)""                           ",
+175,"[173] ""'atlas.toITG l (Inferior Temporal Gyrus", temporooccipital part Left)'_networks.Salience.SMG (R) (62,-35,"32)""                       ",
+176,"[174] ""'atlas.aSMG r (Supramarginal Gyrus", anterior division Right)'_atlas.aITG l (Inferior Temporal Gyrus," anterior division Left)""      ",,
+177,"[175] ""'atlas.aSMG r (Supramarginal Gyrus", anterior division Right)'_atlas.pITG l (Inferior Temporal Gyrus," posterior division Left)""     ",,
+178,"[176] ""'atlas.aSMG r (Supramarginal Gyrus", anterior division Right)'_atlas.toITG l (Inferior Temporal Gyrus," temporooccipital part Left)"" ",,
+179,"[177] ""'atlas.pSMG r (Supramarginal Gyrus", posterior division Right)'_atlas.aITG l (Inferior Temporal Gyrus," anterior division Left)""     ",,
+180,"[178] ""'atlas.pSMG r (Supramarginal Gyrus", posterior division Right)'_atlas.pITG l (Inferior Temporal Gyrus," posterior division Left)""    ",,
+181,"[179] ""'atlas.pSMG r (Supramarginal Gyrus", posterior division Right)'_atlas.toITG l (Inferior Temporal Gyrus," temporooccipital part Left)""",,
+182,"[180] ""'atlas.AG r (Angular Gyrus Right)'_atlas.aITG l (Inferior Temporal Gyrus"," anterior division Left)""                                 ",,,
+183,"[181] ""'atlas.AG r (Angular Gyrus Right)'_atlas.pITG l (Inferior Temporal Gyrus"," posterior division Left)""                                ",,,
+184,"[182] ""'atlas.AG r (Angular Gyrus Right)'_atlas.toITG l (Inferior Temporal Gyrus"," temporooccipital part Left)""                            ",,,
+185,"[183] ""'networks.Language.IFG (L) (-51",26,2)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                                              "
+186,"[184] ""'networks.Language.IFG (R) (54",28,1)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                                               "
+187,"[185] ""'networks.Cerebellar.Anterior (0",-63,-30)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                                          "
+188,"[186] ""'networks.Cerebellar.Posterior (0",-79,-32)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                                         "
+189,"[187] ""'atlas.IC r (Insular Cortex Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                 ",,
+190,"[188] ""'atlas.IC l (Insular Cortex Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                  ",,
+191,"[189] ""'atlas.IFG tri r (Inferior Frontal Gyrus", pars triangularis Right)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                 ",
+192,"[190] ""'atlas.IFG tri l (Inferior Frontal Gyrus", pars triangularis Left)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                  ",
+193,"[191] ""'atlas.IFG oper r (Inferior Frontal Gyrus", pars opercularis Right)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                 ",
+194,"[192] ""'atlas.IFG oper l (Inferior Frontal Gyrus", pars opercularis Left)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                  ",
+195,"[193] ""'atlas.PreCG r (Precentral Gyrus Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                            ",,
+196,"[194] ""'atlas.PreCG l (Precentral Gyrus Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                             ",,
+197,"[195] ""'atlas.SPL r (Superior Parietal Lobule Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                      ",,
+198,"[196] ""'atlas.SPL l (Superior Parietal Lobule Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                       ",,
+199,"[197] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                     ",,
+200,"[198] ""'atlas.Thalamus r'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                                  ",,
+201,"[199] ""'atlas.Thalamus l'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                                  ",,
+202,"[200] ""'atlas.Cereb1 l (Cerebelum Crus1 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                             ",,
+203,"[201] ""'atlas.Cereb1 r (Cerebelum Crus1 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                            ",,
+204,"[202] ""'atlas.Cereb2 l (Cerebelum Crus2 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                             ",,
+205,"[203] ""'atlas.Cereb2 r (Cerebelum Crus2 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                            ",,
+206,"[204] ""'atlas.Cereb3 l (Cerebelum 3 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                 ",,
+207,"[205] ""'atlas.Cereb3 r (Cerebelum 3 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                ",,
+208,"[206] ""'atlas.Cereb45 l (Cerebelum 4 5 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                              ",,
+209,"[207] ""'atlas.Cereb45 r (Cerebelum 4 5 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                             ",,
+210,"[208] ""'atlas.Cereb6 l (Cerebelum 6 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                 ",,
+211,"[209] ""'atlas.Cereb6 r (Cerebelum 6 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                ",,
+212,"[210] ""'atlas.Cereb7 l (Cerebelum 7b Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                ",,
+213,"[211] ""'atlas.Cereb7 r (Cerebelum 7b Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                               ",,
+214,"[212] ""'atlas.Cereb8 l (Cerebelum 8 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                 ",,
+215,"[213] ""'atlas.Cereb8 r (Cerebelum 8 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                ",,
+216,"[214] ""'atlas.Cereb9 l (Cerebelum 9 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                 ",,
+217,"[215] ""'atlas.Cereb9 r (Cerebelum 9 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                                ",,
+218,"[216] ""'atlas.Cereb10 l (Cerebelum 10 Left)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                               ",,
+219,"[217] ""'atlas.Cereb10 r (Cerebelum 10 Right)'_networks.DorsalAttention.IPS (R)  (39",-42,"54)""                                              ",,
+220,"[218] ""'atlas.sLOC r (Lateral Occipital Cortex", superior division Right)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                  ",
+221,"[219] ""'atlas.sLOC l (Lateral Occipital Cortex", superior division Left)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                   ",
+222,"[220] ""'atlas.iLOC r (Lateral Occipital Cortex", inferior division Right)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                  ",
+223,"[221] ""'atlas.iLOC l (Lateral Occipital Cortex", inferior division Left)'_networks.DorsalAttention.IPS (R)  (39,-42,"54)""                   ",
+224,"[222] ""'atlas.SPL r (Superior Parietal Lobule Right)'_networks.Language.IFG (L) (-51",26,"2)""                                               ",,
+225,"[223] ""'atlas.SPL r (Superior Parietal Lobule Right)'_networks.Language.IFG (R) (54",28,"1)""                                                ",,
+226,"[224] ""'atlas.SPL r (Superior Parietal Lobule Right)'_networks.Cerebellar.Anterior (0",-63,"-30)""                                           ",,
+227,"[225] ""'atlas.SPL r (Superior Parietal Lobule Right)'_networks.Cerebellar.Posterior (0",-79,"-32)""                                          ",,
+228,"[226] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.IC r (Insular Cortex Right)""                                                  ",,,,
+229,"[227] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.IC l (Insular Cortex Left)""                                                   ",,,,
+230,"[228] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.IFG tri r (Inferior Frontal Gyrus"," pars triangularis Right)""                  ",,,
+231,"[229] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.IFG tri l (Inferior Frontal Gyrus"," pars triangularis Left)""                   ",,,
+232,"[230] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.IFG oper r (Inferior Frontal Gyrus"," pars opercularis Right)""                  ",,,
+233,"[231] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.IFG oper l (Inferior Frontal Gyrus"," pars opercularis Left)""                   ",,,
+234,"[232] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.PreCG r (Precentral Gyrus Right)""                                             ",,,,
+235,"[233] ""'atlas.SPL r (Superior Parietal Lobule Right)'_atlas.PreCG l (Precentral Gyrus Left)""                                              ",,,,
+236,"[234] ""'atlas.sLOC r (Lateral Occipital Cortex"," superior division Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                   ",,,
+237,"[235] ""'atlas.sLOC l (Lateral Occipital Cortex"," superior division Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                    ",,,
+238,"[236] ""'atlas.iLOC r (Lateral Occipital Cortex"," inferior division Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                   ",,,
+239,"[237] ""'atlas.iLOC l (Lateral Occipital Cortex"," inferior division Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                    ",,,
+240,"[238] ""'atlas.OFusG l (Occipital Fusiform Gyrus Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                      ",,,,
+241,"[239] ""'atlas.Thalamus r'_atlas.SPL r (Superior Parietal Lobule Right)""                                                                   ",,,,
+242,"[240] ""'atlas.Thalamus l'_atlas.SPL r (Superior Parietal Lobule Right)""                                                                   ",,,,
+243,"[241] ""'atlas.Cereb1 l (Cerebelum Crus1 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                              ",,,,
+244,"[242] ""'atlas.Cereb1 r (Cerebelum Crus1 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                             ",,,,
+245,"[243] ""'atlas.Cereb2 l (Cerebelum Crus2 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                              ",,,,
+246,"[244] ""'atlas.Cereb2 r (Cerebelum Crus2 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                             ",,,,
+247,"[245] ""'atlas.Cereb3 l (Cerebelum 3 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                  ",,,,
+248,"[246] ""'atlas.Cereb3 r (Cerebelum 3 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                 ",,,,
+249,"[247] ""'atlas.Cereb45 l (Cerebelum 4 5 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                               ",,,,
+250,"[248] ""'atlas.Cereb45 r (Cerebelum 4 5 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                              ",,,,
+251,"[249] ""'atlas.Cereb6 l (Cerebelum 6 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                  ",,,,
+252,"[250] ""'atlas.Cereb6 r (Cerebelum 6 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                 ",,,,
+253,"[251] ""'atlas.Cereb7 l (Cerebelum 7b Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                 ",,,,
+254,"[252] ""'atlas.Cereb7 r (Cerebelum 7b Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                ",,,,
+255,"[253] ""'atlas.Cereb8 l (Cerebelum 8 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                  ",,,,
+256,"[254] ""'atlas.Cereb8 r (Cerebelum 8 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                 ",,,,
+257,"[255] ""'atlas.Cereb9 l (Cerebelum 9 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                  ",,,,
+258,"[256] ""'atlas.Cereb9 r (Cerebelum 9 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                 ",,,,
+259,"[257] ""'atlas.Cereb10 l (Cerebelum 10 Left)'_atlas.SPL r (Superior Parietal Lobule Right)""                                                ",,,,
+260,"[258] ""'atlas.Cereb10 r (Cerebelum 10 Right)'_atlas.SPL r (Superior Parietal Lobule Right)""                                               ",,,,

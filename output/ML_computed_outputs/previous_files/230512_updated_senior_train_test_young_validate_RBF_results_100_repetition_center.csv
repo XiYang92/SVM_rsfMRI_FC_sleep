@@ -1,0 +1,6301 @@
+[[1]]
+[1] 1
+
+[[2]]
+[1] 0.9583333
+
+[[3]]
+[1] 0.9583333
+
+[[4]]
+[1] 1
+
+[[5]]
+[1] 1
+
+[[6]]
+[1] 0.9166667
+
+[[7]]
+[1] 1
+
+[[8]]
+[1] 0.9583333
+
+[[9]]
+[1] 0.9583333
+
+[[10]]
+[1] 1
+
+[[11]]
+[1] 0.9583333
+
+[[12]]
+[1] 1
+
+[[13]]
+[1] 1
+
+[[14]]
+[1] 0.9545455
+
+[[15]]
+[1] 1
+
+[[16]]
+[1] 0.9583333
+
+[[17]]
+[1] 0.8636364
+
+[[18]]
+[1] 1
+
+[[19]]
+[1] 0.9090909
+
+[[20]]
+[1] 0.9583333
+
+[[21]]
+[1] 0.9166667
+
+[[22]]
+[1] 0.9545455
+
+[[23]]
+[1] 0.9545455
+
+[[24]]
+[1] 0.9545455
+
+[[25]]
+[1] 1
+
+[[26]]
+[1] 1
+
+[[27]]
+[1] 0.9545455
+
+[[28]]
+[1] 0.9583333
+
+[[29]]
+[1] 0.9090909
+
+[[30]]
+[1] 1
+
+[[31]]
+[1] 1
+
+[[32]]
+[1] 1
+
+[[33]]
+[1] 0.875
+
+[[34]]
+[1] 0.9545455
+
+[[35]]
+[1] 0.9545455
+
+[[36]]
+[1] 1
+
+[[37]]
+[1] 0.9166667
+
+[[38]]
+[1] 1
+
+[[39]]
+[1] 0.9545455
+
+[[40]]
+[1] 0.9583333
+
+[[41]]
+[1] 1
+
+[[42]]
+[1] 0.9583333
+
+[[43]]
+[1] 0.9583333
+
+[[44]]
+[1] 1
+
+[[45]]
+[1] 0.9090909
+
+[[46]]
+[1] 0.9545455
+
+[[47]]
+[1] 1
+
+[[48]]
+[1] 0.875
+
+[[49]]
+[1] 1
+
+[[50]]
+[1] 0.9583333
+
+[[51]]
+[1] 0.9545455
+
+[[52]]
+[1] 1
+
+[[53]]
+[1] 1
+
+[[54]]
+[1] 1
+
+[[55]]
+[1] 0.8636364
+
+[[56]]
+[1] 0.9545455
+
+[[57]]
+[1] 0.9545455
+
+[[58]]
+[1] 1
+
+[[59]]
+[1] 1
+
+[[60]]
+[1] 1
+
+[[61]]
+[1] 0.9545455
+
+[[62]]
+[1] 1
+
+[[63]]
+[1] 0.8636364
+
+[[64]]
+[1] 1
+
+[[65]]
+[1] 0.9166667
+
+[[66]]
+[1] 1
+
+[[67]]
+[1] 1
+
+[[68]]
+[1] 0.9583333
+
+[[69]]
+[1] 0.9166667
+
+[[70]]
+[1] 0.9583333
+
+[[71]]
+[1] 0.9545455
+
+[[72]]
+[1] 1
+
+[[73]]
+[1] 0.9583333
+
+[[74]]
+[1] 0.9545455
+
+[[75]]
+[1] 1
+
+[[76]]
+[1] 1
+
+[[77]]
+[1] 1
+
+[[78]]
+[1] 1
+
+[[79]]
+[1] 1
+
+[[80]]
+[1] 1
+
+[[81]]
+[1] 0.9583333
+
+[[82]]
+[1] 0.9166667
+
+[[83]]
+[1] 0.9583333
+
+[[84]]
+[1] 1
+
+[[85]]
+[1] 1
+
+[[86]]
+[1] 1
+
+[[87]]
+[1] 0.9583333
+
+[[88]]
+[1] 1
+
+[[89]]
+[1] 0.9583333
+
+[[90]]
+[1] 1
+
+[[91]]
+[1] 0.875
+
+[[92]]
+[1] 0.9583333
+
+[[93]]
+[1] 1
+
+[[94]]
+[1] 0.9545455
+
+[[95]]
+[1] 0.9545455
+
+[[96]]
+[1] 1
+
+[[97]]
+[1] 0.9583333
+
+[[98]]
+[1] 0.9545455
+
+[[99]]
+[1] 0.9545455
+
+[[100]]
+[1] 0.8333333
+
+[[101]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[102]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[103]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[104]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[105]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[106]]
+    true
+pred  1  2
+   1 11  1
+   2  1 11
+
+[[107]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[108]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[109]]
+    true
+pred  1  2
+   1 12  1
+   2  0 11
+
+[[110]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[111]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[112]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[113]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[114]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[115]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[116]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[117]]
+    true
+pred  1  2
+   1  8  0
+   2  3 11
+
+[[118]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[119]]
+    true
+pred  1  2
+   1  9  0
+   2  2 11
+
+[[120]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[121]]
+    true
+pred  1  2
+   1 12  2
+   2  0 10
+
+[[122]]
+    true
+pred  1  2
+   1 11  1
+   2  0 10
+
+[[123]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[124]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[125]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[126]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[127]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[128]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[129]]
+    true
+pred  1  2
+   1  9  0
+   2  2 11
+
+[[130]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[131]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[132]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[133]]
+    true
+pred  1  2
+   1  9  0
+   2  3 12
+
+[[134]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[135]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[136]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[137]]
+    true
+pred  1  2
+   1 12  2
+   2  0 10
+
+[[138]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[139]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[140]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[141]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[142]]
+    true
+pred  1  2
+   1 12  1
+   2  0 11
+
+[[143]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[144]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[145]]
+    true
+pred  1  2
+   1 11  2
+   2  0  9
+
+[[146]]
+    true
+pred  1  2
+   1 11  1
+   2  0 10
+
+[[147]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[148]]
+    true
+pred  1  2
+   1 12  3
+   2  0  9
+
+[[149]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[150]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[151]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[152]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[153]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[154]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[155]]
+    true
+pred  1  2
+   1 10  2
+   2  1  9
+
+[[156]]
+    true
+pred  1  2
+   1 11  1
+   2  0 10
+
+[[157]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[158]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[159]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[160]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[161]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[162]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[163]]
+    true
+pred  1  2
+   1  8  0
+   2  3 11
+
+[[164]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[165]]
+    true
+pred  1  2
+   1 10  0
+   2  2 12
+
+[[166]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[167]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[168]]
+    true
+pred  1  2
+   1 12  1
+   2  0 11
+
+[[169]]
+    true
+pred  1  2
+   1 10  0
+   2  2 12
+
+[[170]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[171]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[172]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[173]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[174]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[175]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[176]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[177]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[178]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[179]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[180]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[181]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[182]]
+    true
+pred  1  2
+   1 11  1
+   2  1 11
+
+[[183]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[184]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[185]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[186]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[187]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[188]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[189]]
+    true
+pred  1  2
+   1 12  1
+   2  0 11
+
+[[190]]
+    true
+pred  1  2
+   1 11  0
+   2  0 11
+
+[[191]]
+    true
+pred  1  2
+   1  9  0
+   2  3 12
+
+[[192]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[193]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[194]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[195]]
+    true
+pred  1  2
+   1 11  1
+   2  0 10
+
+[[196]]
+    true
+pred  1  2
+   1 12  0
+   2  0 12
+
+[[197]]
+    true
+pred  1  2
+   1 11  0
+   2  1 12
+
+[[198]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[199]]
+    true
+pred  1  2
+   1 10  0
+   2  1 11
+
+[[200]]
+    true
+pred  1  2
+   1  8  0
+   2  4 12
+
+[[201]]
+[[201]]$diag
+[1] 1
+
+[[201]]$kappa
+[1] 1
+
+[[201]]$rand
+[1] 1
+
+[[201]]$crand
+[1] 1
+
+
+[[202]]
+[[202]]$diag
+[1] 0.9583333
+
+[[202]]$kappa
+[1] 0.9166667
+
+[[202]]$rand
+[1] 0.9166667
+
+[[202]]$crand
+[1] 0.8330704
+
+
+[[203]]
+[[203]]$diag
+[1] 0.9583333
+
+[[203]]$kappa
+[1] 0.9166667
+
+[[203]]$rand
+[1] 0.9166667
+
+[[203]]$crand
+[1] 0.8330704
+
+
+[[204]]
+[[204]]$diag
+[1] 1
+
+[[204]]$kappa
+[1] 1
+
+[[204]]$rand
+[1] 1
+
+[[204]]$crand
+[1] 1
+
+
+[[205]]
+[[205]]$diag
+[1] 1
+
+[[205]]$kappa
+[1] 1
+
+[[205]]$rand
+[1] 1
+
+[[205]]$crand
+[1] 1
+
+
+[[206]]
+[[206]]$diag
+[1] 0.9166667
+
+[[206]]$kappa
+[1] 0.8333333
+
+[[206]]$rand
+[1] 0.8405797
+
+[[206]]$crand
+[1] 0.6805556
+
+
+[[207]]
+[[207]]$diag
+[1] 1
+
+[[207]]$kappa
+[1] 1
+
+[[207]]$rand
+[1] 1
+
+[[207]]$crand
+[1] 1
+
+
+[[208]]
+[[208]]$diag
+[1] 0.9583333
+
+[[208]]$kappa
+[1] 0.9166667
+
+[[208]]$rand
+[1] 0.9166667
+
+[[208]]$crand
+[1] 0.8330704
+
+
+[[209]]
+[[209]]$diag
+[1] 0.9583333
+
+[[209]]$kappa
+[1] 0.9166667
+
+[[209]]$rand
+[1] 0.9166667
+
+[[209]]$crand
+[1] 0.8330704
+
+
+[[210]]
+[[210]]$diag
+[1] 1
+
+[[210]]$kappa
+[1] 1
+
+[[210]]$rand
+[1] 1
+
+[[210]]$crand
+[1] 1
+
+
+[[211]]
+[[211]]$diag
+[1] 0.9583333
+
+[[211]]$kappa
+[1] 0.9166667
+
+[[211]]$rand
+[1] 0.9166667
+
+[[211]]$crand
+[1] 0.8330704
+
+
+[[212]]
+[[212]]$diag
+[1] 1
+
+[[212]]$kappa
+[1] 1
+
+[[212]]$rand
+[1] 1
+
+[[212]]$crand
+[1] 1
+
+
+[[213]]
+[[213]]$diag
+[1] 1
+
+[[213]]$kappa
+[1] 1
+
+[[213]]$rand
+[1] 1
+
+[[213]]$crand
+[1] 1
+
+
+[[214]]
+[[214]]$diag
+[1] 0.9545455
+
+[[214]]$kappa
+[1] 0.9090909
+
+[[214]]$rand
+[1] 0.9090909
+
+[[214]]$crand
+[1] 0.8178439
+
+
+[[215]]
+[[215]]$diag
+[1] 1
+
+[[215]]$kappa
+[1] 1
+
+[[215]]$rand
+[1] 1
+
+[[215]]$crand
+[1] 1
+
+
+[[216]]
+[[216]]$diag
+[1] 0.9583333
+
+[[216]]$kappa
+[1] 0.9166667
+
+[[216]]$rand
+[1] 0.9166667
+
+[[216]]$crand
+[1] 0.8330704
+
+
+[[217]]
+[[217]]$diag
+[1] 0.8636364
+
+[[217]]$kappa
+[1] 0.7272727
+
+[[217]]$rand
+[1] 0.7532468
+
+[[217]]$crand
+[1] 0.5072046
+
+
+[[218]]
+[[218]]$diag
+[1] 1
+
+[[218]]$kappa
+[1] 1
+
+[[218]]$rand
+[1] 1
+
+[[218]]$crand
+[1] 1
+
+
+[[219]]
+[[219]]$diag
+[1] 0.9090909
+
+[[219]]$kappa
+[1] 0.8181818
+
+[[219]]$rand
+[1] 0.8268398
+
+[[219]]$crand
+[1] 0.6534653
+
+
+[[220]]
+[[220]]$diag
+[1] 0.9583333
+
+[[220]]$kappa
+[1] 0.9166667
+
+[[220]]$rand
+[1] 0.9166667
+
+[[220]]$crand
+[1] 0.8330704
+
+
+[[221]]
+[[221]]$diag
+[1] 0.9166667
+
+[[221]]$kappa
+[1] 0.8333333
+
+[[221]]$rand
+[1] 0.8405797
+
+[[221]]$crand
+[1] 0.6809584
+
+
+[[222]]
+[[222]]$diag
+[1] 0.9545455
+
+[[222]]$kappa
+[1] 0.9090909
+
+[[222]]$rand
+[1] 0.9090909
+
+[[222]]$crand
+[1] 0.8178439
+
+
+[[223]]
+[[223]]$diag
+[1] 0.9545455
+
+[[223]]$kappa
+[1] 0.9090909
+
+[[223]]$rand
+[1] 0.9090909
+
+[[223]]$crand
+[1] 0.8178439
+
+
+[[224]]
+[[224]]$diag
+[1] 0.9545455
+
+[[224]]$kappa
+[1] 0.9090909
+
+[[224]]$rand
+[1] 0.9090909
+
+[[224]]$crand
+[1] 0.8178439
+
+
+[[225]]
+[[225]]$diag
+[1] 1
+
+[[225]]$kappa
+[1] 1
+
+[[225]]$rand
+[1] 1
+
+[[225]]$crand
+[1] 1
+
+
+[[226]]
+[[226]]$diag
+[1] 1
+
+[[226]]$kappa
+[1] 1
+
+[[226]]$rand
+[1] 1
+
+[[226]]$crand
+[1] 1
+
+
+[[227]]
+[[227]]$diag
+[1] 0.9545455
+
+[[227]]$kappa
+[1] 0.9090909
+
+[[227]]$rand
+[1] 0.9090909
+
+[[227]]$crand
+[1] 0.8178439
+
+
+[[228]]
+[[228]]$diag
+[1] 0.9583333
+
+[[228]]$kappa
+[1] 0.9166667
+
+[[228]]$rand
+[1] 0.9166667
+
+[[228]]$crand
+[1] 0.8330704
+
+
+[[229]]
+[[229]]$diag
+[1] 0.9090909
+
+[[229]]$kappa
+[1] 0.8181818
+
+[[229]]$rand
+[1] 0.8268398
+
+[[229]]$crand
+[1] 0.6534653
+
+
+[[230]]
+[[230]]$diag
+[1] 1
+
+[[230]]$kappa
+[1] 1
+
+[[230]]$rand
+[1] 1
+
+[[230]]$crand
+[1] 1
+
+
+[[231]]
+[[231]]$diag
+[1] 1
+
+[[231]]$kappa
+[1] 1
+
+[[231]]$rand
+[1] 1
+
+[[231]]$crand
+[1] 1
+
+
+[[232]]
+[[232]]$diag
+[1] 1
+
+[[232]]$kappa
+[1] 1
+
+[[232]]$rand
+[1] 1
+
+[[232]]$crand
+[1] 1
+
+
+[[233]]
+[[233]]$diag
+[1] 0.875
+
+[[233]]$kappa
+[1] 0.75
+
+[[233]]$rand
+[1] 0.7717391
+
+[[233]]$crand
+[1] 0.5439093
+
+
+[[234]]
+[[234]]$diag
+[1] 0.9545455
+
+[[234]]$kappa
+[1] 0.9090909
+
+[[234]]$rand
+[1] 0.9090909
+
+[[234]]$crand
+[1] 0.8178439
+
+
+[[235]]
+[[235]]$diag
+[1] 0.9545455
+
+[[235]]$kappa
+[1] 0.9090909
+
+[[235]]$rand
+[1] 0.9090909
+
+[[235]]$crand
+[1] 0.8178439
+
+
+[[236]]
+[[236]]$diag
+[1] 1
+
+[[236]]$kappa
+[1] 1
+
+[[236]]$rand
+[1] 1
+
+[[236]]$crand
+[1] 1
+
+
+[[237]]
+[[237]]$diag
+[1] 0.9166667
+
+[[237]]$kappa
+[1] 0.8333333
+
+[[237]]$rand
+[1] 0.8405797
+
+[[237]]$crand
+[1] 0.6809584
+
+
+[[238]]
+[[238]]$diag
+[1] 1
+
+[[238]]$kappa
+[1] 1
+
+[[238]]$rand
+[1] 1
+
+[[238]]$crand
+[1] 1
+
+
+[[239]]
+[[239]]$diag
+[1] 0.9545455
+
+[[239]]$kappa
+[1] 0.9090909
+
+[[239]]$rand
+[1] 0.9090909
+
+[[239]]$crand
+[1] 0.8178439
+
+
+[[240]]
+[[240]]$diag
+[1] 0.9583333
+
+[[240]]$kappa
+[1] 0.9166667
+
+[[240]]$rand
+[1] 0.9166667
+
+[[240]]$crand
+[1] 0.8330704
+
+
+[[241]]
+[[241]]$diag
+[1] 1
+
+[[241]]$kappa
+[1] 1
+
+[[241]]$rand
+[1] 1
+
+[[241]]$crand
+[1] 1
+
+
+[[242]]
+[[242]]$diag
+[1] 0.9583333
+
+[[242]]$kappa
+[1] 0.9166667
+
+[[242]]$rand
+[1] 0.9166667
+
+[[242]]$crand
+[1] 0.8330704
+
+
+[[243]]
+[[243]]$diag
+[1] 0.9583333
+
+[[243]]$kappa
+[1] 0.9166667
+
+[[243]]$rand
+[1] 0.9166667
+
+[[243]]$crand
+[1] 0.8330704
+
+
+[[244]]
+[[244]]$diag
+[1] 1
+
+[[244]]$kappa
+[1] 1
+
+[[244]]$rand
+[1] 1
+
+[[244]]$crand
+[1] 1
+
+
+[[245]]
+[[245]]$diag
+[1] 0.9090909
+
+[[245]]$kappa
+[1] 0.8181818
+
+[[245]]$rand
+[1] 0.8268398
+
+[[245]]$crand
+[1] 0.6534653
+
+
+[[246]]
+[[246]]$diag
+[1] 0.9545455
+
+[[246]]$kappa
+[1] 0.9090909
+
+[[246]]$rand
+[1] 0.9090909
+
+[[246]]$crand
+[1] 0.8178439
+
+
+[[247]]
+[[247]]$diag
+[1] 1
+
+[[247]]$kappa
+[1] 1
+
+[[247]]$rand
+[1] 1
+
+[[247]]$crand
+[1] 1
+
+
+[[248]]
+[[248]]$diag
+[1] 0.875
+
+[[248]]$kappa
+[1] 0.75
+
+[[248]]$rand
+[1] 0.7717391
+
+[[248]]$crand
+[1] 0.5439093
+
+
+[[249]]
+[[249]]$diag
+[1] 1
+
+[[249]]$kappa
+[1] 1
+
+[[249]]$rand
+[1] 1
+
+[[249]]$crand
+[1] 1
+
+
+[[250]]
+[[250]]$diag
+[1] 0.9583333
+
+[[250]]$kappa
+[1] 0.9166667
+
+[[250]]$rand
+[1] 0.9166667
+
+[[250]]$crand
+[1] 0.8330704
+
+
+[[251]]
+[[251]]$diag
+[1] 0.9545455
+
+[[251]]$kappa
+[1] 0.9090909
+
+[[251]]$rand
+[1] 0.9090909
+
+[[251]]$crand
+[1] 0.8178439
+
+
+[[252]]
+[[252]]$diag
+[1] 1
+
+[[252]]$kappa
+[1] 1
+
+[[252]]$rand
+[1] 1
+
+[[252]]$crand
+[1] 1
+
+
+[[253]]
+[[253]]$diag
+[1] 1
+
+[[253]]$kappa
+[1] 1
+
+[[253]]$rand
+[1] 1
+
+[[253]]$crand
+[1] 1
+
+
+[[254]]
+[[254]]$diag
+[1] 1
+
+[[254]]$kappa
+[1] 1
+
+[[254]]$rand
+[1] 1
+
+[[254]]$crand
+[1] 1
+
+
+[[255]]
+[[255]]$diag
+[1] 0.8636364
+
+[[255]]$kappa
+[1] 0.7272727
+
+[[255]]$rand
+[1] 0.7532468
+
+[[255]]$crand
+[1] 0.5055762
+
+
+[[256]]
+[[256]]$diag
+[1] 0.9545455
+
+[[256]]$kappa
+[1] 0.9090909
+
+[[256]]$rand
+[1] 0.9090909
+
+[[256]]$crand
+[1] 0.8178439
+
+
+[[257]]
+[[257]]$diag
+[1] 0.9545455
+
+[[257]]$kappa
+[1] 0.9090909
+
+[[257]]$rand
+[1] 0.9090909
+
+[[257]]$crand
+[1] 0.8178439
+
+
+[[258]]
+[[258]]$diag
+[1] 1
+
+[[258]]$kappa
+[1] 1
+
+[[258]]$rand
+[1] 1
+
+[[258]]$crand
+[1] 1
+
+
+[[259]]
+[[259]]$diag
+[1] 1
+
+[[259]]$kappa
+[1] 1
+
+[[259]]$rand
+[1] 1
+
+[[259]]$crand
+[1] 1
+
+
+[[260]]
+[[260]]$diag
+[1] 1
+
+[[260]]$kappa
+[1] 1
+
+[[260]]$rand
+[1] 1
+
+[[260]]$crand
+[1] 1
+
+
+[[261]]
+[[261]]$diag
+[1] 0.9545455
+
+[[261]]$kappa
+[1] 0.9090909
+
+[[261]]$rand
+[1] 0.9090909
+
+[[261]]$crand
+[1] 0.8178439
+
+
+[[262]]
+[[262]]$diag
+[1] 1
+
+[[262]]$kappa
+[1] 1
+
+[[262]]$rand
+[1] 1
+
+[[262]]$crand
+[1] 1
+
+
+[[263]]
+[[263]]$diag
+[1] 0.8636364
+
+[[263]]$kappa
+[1] 0.7272727
+
+[[263]]$rand
+[1] 0.7532468
+
+[[263]]$crand
+[1] 0.5072046
+
+
+[[264]]
+[[264]]$diag
+[1] 1
+
+[[264]]$kappa
+[1] 1
+
+[[264]]$rand
+[1] 1
+
+[[264]]$crand
+[1] 1
+
+
+[[265]]
+[[265]]$diag
+[1] 0.9166667
+
+[[265]]$kappa
+[1] 0.8333333
+
+[[265]]$rand
+[1] 0.8405797
+
+[[265]]$crand
+[1] 0.6809584
+
+
+[[266]]
+[[266]]$diag
+[1] 1
+
+[[266]]$kappa
+[1] 1
+
+[[266]]$rand
+[1] 1
+
+[[266]]$crand
+[1] 1
+
+
+[[267]]
+[[267]]$diag
+[1] 1
+
+[[267]]$kappa
+[1] 1
+
+[[267]]$rand
+[1] 1
+
+[[267]]$crand
+[1] 1
+
+
+[[268]]
+[[268]]$diag
+[1] 0.9583333
+
+[[268]]$kappa
+[1] 0.9166667
+
+[[268]]$rand
+[1] 0.9166667
+
+[[268]]$crand
+[1] 0.8330704
+
+
+[[269]]
+[[269]]$diag
+[1] 0.9166667
+
+[[269]]$kappa
+[1] 0.8333333
+
+[[269]]$rand
+[1] 0.8405797
+
+[[269]]$crand
+[1] 0.6809584
+
+
+[[270]]
+[[270]]$diag
+[1] 0.9583333
+
+[[270]]$kappa
+[1] 0.9166667
+
+[[270]]$rand
+[1] 0.9166667
+
+[[270]]$crand
+[1] 0.8330704
+
+
+[[271]]
+[[271]]$diag
+[1] 0.9545455
+
+[[271]]$kappa
+[1] 0.9090909
+
+[[271]]$rand
+[1] 0.9090909
+
+[[271]]$crand
+[1] 0.8178439
+
+
+[[272]]
+[[272]]$diag
+[1] 1
+
+[[272]]$kappa
+[1] 1
+
+[[272]]$rand
+[1] 1
+
+[[272]]$crand
+[1] 1
+
+
+[[273]]
+[[273]]$diag
+[1] 0.9583333
+
+[[273]]$kappa
+[1] 0.9166667
+
+[[273]]$rand
+[1] 0.9166667
+
+[[273]]$crand
+[1] 0.8330704
+
+
+[[274]]
+[[274]]$diag
+[1] 0.9545455
+
+[[274]]$kappa
+[1] 0.9090909
+
+[[274]]$rand
+[1] 0.9090909
+
+[[274]]$crand
+[1] 0.8178439
+
+
+[[275]]
+[[275]]$diag
+[1] 1
+
+[[275]]$kappa
+[1] 1
+
+[[275]]$rand
+[1] 1
+
+[[275]]$crand
+[1] 1
+
+
+[[276]]
+[[276]]$diag
+[1] 1
+
+[[276]]$kappa
+[1] 1
+
+[[276]]$rand
+[1] 1
+
+[[276]]$crand
+[1] 1
+
+
+[[277]]
+[[277]]$diag
+[1] 1
+
+[[277]]$kappa
+[1] 1
+
+[[277]]$rand
+[1] 1
+
+[[277]]$crand
+[1] 1
+
+
+[[278]]
+[[278]]$diag
+[1] 1
+
+[[278]]$kappa
+[1] 1
+
+[[278]]$rand
+[1] 1
+
+[[278]]$crand
+[1] 1
+
+
+[[279]]
+[[279]]$diag
+[1] 1
+
+[[279]]$kappa
+[1] 1
+
+[[279]]$rand
+[1] 1
+
+[[279]]$crand
+[1] 1
+
+
+[[280]]
+[[280]]$diag
+[1] 1
+
+[[280]]$kappa
+[1] 1
+
+[[280]]$rand
+[1] 1
+
+[[280]]$crand
+[1] 1
+
+
+[[281]]
+[[281]]$diag
+[1] 0.9583333
+
+[[281]]$kappa
+[1] 0.9166667
+
+[[281]]$rand
+[1] 0.9166667
+
+[[281]]$crand
+[1] 0.8330704
+
+
+[[282]]
+[[282]]$diag
+[1] 0.9166667
+
+[[282]]$kappa
+[1] 0.8333333
+
+[[282]]$rand
+[1] 0.8405797
+
+[[282]]$crand
+[1] 0.6805556
+
+
+[[283]]
+[[283]]$diag
+[1] 0.9583333
+
+[[283]]$kappa
+[1] 0.9166667
+
+[[283]]$rand
+[1] 0.9166667
+
+[[283]]$crand
+[1] 0.8330704
+
+
+[[284]]
+[[284]]$diag
+[1] 1
+
+[[284]]$kappa
+[1] 1
+
+[[284]]$rand
+[1] 1
+
+[[284]]$crand
+[1] 1
+
+
+[[285]]
+[[285]]$diag
+[1] 1
+
+[[285]]$kappa
+[1] 1
+
+[[285]]$rand
+[1] 1
+
+[[285]]$crand
+[1] 1
+
+
+[[286]]
+[[286]]$diag
+[1] 1
+
+[[286]]$kappa
+[1] 1
+
+[[286]]$rand
+[1] 1
+
+[[286]]$crand
+[1] 1
+
+
+[[287]]
+[[287]]$diag
+[1] 0.9583333
+
+[[287]]$kappa
+[1] 0.9166667
+
+[[287]]$rand
+[1] 0.9166667
+
+[[287]]$crand
+[1] 0.8330704
+
+
+[[288]]
+[[288]]$diag
+[1] 1
+
+[[288]]$kappa
+[1] 1
+
+[[288]]$rand
+[1] 1
+
+[[288]]$crand
+[1] 1
+
+
+[[289]]
+[[289]]$diag
+[1] 0.9583333
+
+[[289]]$kappa
+[1] 0.9166667
+
+[[289]]$rand
+[1] 0.9166667
+
+[[289]]$crand
+[1] 0.8330704
+
+
+[[290]]
+[[290]]$diag
+[1] 1
+
+[[290]]$kappa
+[1] 1
+
+[[290]]$rand
+[1] 1
+
+[[290]]$crand
+[1] 1
+
+
+[[291]]
+[[291]]$diag
+[1] 0.875
+
+[[291]]$kappa
+[1] 0.75
+
+[[291]]$rand
+[1] 0.7717391
+
+[[291]]$crand
+[1] 0.5439093
+
+
+[[292]]
+[[292]]$diag
+[1] 0.9583333
+
+[[292]]$kappa
+[1] 0.9166667
+
+[[292]]$rand
+[1] 0.9166667
+
+[[292]]$crand
+[1] 0.8330704
+
+
+[[293]]
+[[293]]$diag
+[1] 1
+
+[[293]]$kappa
+[1] 1
+
+[[293]]$rand
+[1] 1
+
+[[293]]$crand
+[1] 1
+
+
+[[294]]
+[[294]]$diag
+[1] 0.9545455
+
+[[294]]$kappa
+[1] 0.9090909
+
+[[294]]$rand
+[1] 0.9090909
+
+[[294]]$crand
+[1] 0.8178439
+
+
+[[295]]
+[[295]]$diag
+[1] 0.9545455
+
+[[295]]$kappa
+[1] 0.9090909
+
+[[295]]$rand
+[1] 0.9090909
+
+[[295]]$crand
+[1] 0.8178439
+
+
+[[296]]
+[[296]]$diag
+[1] 1
+
+[[296]]$kappa
+[1] 1
+
+[[296]]$rand
+[1] 1
+
+[[296]]$crand
+[1] 1
+
+
+[[297]]
+[[297]]$diag
+[1] 0.9583333
+
+[[297]]$kappa
+[1] 0.9166667
+
+[[297]]$rand
+[1] 0.9166667
+
+[[297]]$crand
+[1] 0.8330704
+
+
+[[298]]
+[[298]]$diag
+[1] 0.9545455
+
+[[298]]$kappa
+[1] 0.9090909
+
+[[298]]$rand
+[1] 0.9090909
+
+[[298]]$crand
+[1] 0.8178439
+
+
+[[299]]
+[[299]]$diag
+[1] 0.9545455
+
+[[299]]$kappa
+[1] 0.9090909
+
+[[299]]$rand
+[1] 0.9090909
+
+[[299]]$crand
+[1] 0.8178439
+
+
+[[300]]
+[[300]]$diag
+[1] 0.8333333
+
+[[300]]$kappa
+[1] 0.6666667
+
+[[300]]$rand
+[1] 0.7101449
+
+[[300]]$crand
+[1] 0.4221106
+
+
+[[301]]
+NULL
+
+[[302]]
+NULL
+
+[[303]]
+NULL
+
+[[304]]
+NULL
+
+[[305]]
+NULL
+
+[[306]]
+NULL
+
+[[307]]
+NULL
+
+[[308]]
+NULL
+
+[[309]]
+NULL
+
+[[310]]
+NULL
+
+[[311]]
+NULL
+
+[[312]]
+NULL
+
+[[313]]
+NULL
+
+[[314]]
+NULL
+
+[[315]]
+NULL
+
+[[316]]
+NULL
+
+[[317]]
+NULL
+
+[[318]]
+NULL
+
+[[319]]
+NULL
+
+[[320]]
+NULL
+
+[[321]]
+NULL
+
+[[322]]
+NULL
+
+[[323]]
+NULL
+
+[[324]]
+NULL
+
+[[325]]
+NULL
+
+[[326]]
+NULL
+
+[[327]]
+NULL
+
+[[328]]
+NULL
+
+[[329]]
+NULL
+
+[[330]]
+NULL
+
+[[331]]
+NULL
+
+[[332]]
+NULL
+
+[[333]]
+NULL
+
+[[334]]
+NULL
+
+[[335]]
+NULL
+
+[[336]]
+NULL
+
+[[337]]
+NULL
+
+[[338]]
+NULL
+
+[[339]]
+NULL
+
+[[340]]
+NULL
+
+[[341]]
+NULL
+
+[[342]]
+NULL
+
+[[343]]
+NULL
+
+[[344]]
+NULL
+
+[[345]]
+NULL
+
+[[346]]
+NULL
+
+[[347]]
+NULL
+
+[[348]]
+NULL
+
+[[349]]
+NULL
+
+[[350]]
+NULL
+
+[[351]]
+NULL
+
+[[352]]
+NULL
+
+[[353]]
+NULL
+
+[[354]]
+NULL
+
+[[355]]
+NULL
+
+[[356]]
+NULL
+
+[[357]]
+NULL
+
+[[358]]
+NULL
+
+[[359]]
+NULL
+
+[[360]]
+NULL
+
+[[361]]
+NULL
+
+[[362]]
+NULL
+
+[[363]]
+NULL
+
+[[364]]
+NULL
+
+[[365]]
+NULL
+
+[[366]]
+NULL
+
+[[367]]
+NULL
+
+[[368]]
+NULL
+
+[[369]]
+NULL
+
+[[370]]
+NULL
+
+[[371]]
+NULL
+
+[[372]]
+NULL
+
+[[373]]
+NULL
+
+[[374]]
+NULL
+
+[[375]]
+NULL
+
+[[376]]
+NULL
+
+[[377]]
+NULL
+
+[[378]]
+NULL
+
+[[379]]
+NULL
+
+[[380]]
+NULL
+
+[[381]]
+NULL
+
+[[382]]
+NULL
+
+[[383]]
+NULL
+
+[[384]]
+NULL
+
+[[385]]
+NULL
+
+[[386]]
+NULL
+
+[[387]]
+NULL
+
+[[388]]
+NULL
+
+[[389]]
+NULL
+
+[[390]]
+NULL
+
+[[391]]
+NULL
+
+[[392]]
+NULL
+
+[[393]]
+NULL
+
+[[394]]
+NULL
+
+[[395]]
+NULL
+
+[[396]]
+NULL
+
+[[397]]
+NULL
+
+[[398]]
+NULL
+
+[[399]]
+NULL
+
+[[400]]
+NULL
+
+[[401]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[402]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[403]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[404]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[405]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[406]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[407]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[408]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[409]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[410]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[411]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[412]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[413]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[414]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[415]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[416]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[417]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[418]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[419]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[420]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[421]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[422]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[423]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[424]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[425]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[426]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[427]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[428]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[429]]
+ [1]  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[430]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[431]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[432]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[433]]
+ [1]  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE FALSE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[434]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[435]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[436]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[437]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[438]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[439]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[440]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[441]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[442]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14] FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[443]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[444]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[445]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE FALSE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE
+
+[[446]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[447]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[448]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14] FALSE FALSE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[449]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[450]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[451]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[452]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[453]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[454]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[455]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[456]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE
+
+[[457]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[458]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[459]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[460]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[461]]
+ [1]  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[462]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[463]]
+ [1]  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[464]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[465]]
+ [1]  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[466]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[467]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[468]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14] FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[469]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[470]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[471]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[472]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[473]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[474]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[475]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[476]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[477]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[478]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[479]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[480]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[481]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[482]]
+ [1]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[483]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[484]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[485]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[486]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[487]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[488]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[489]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[490]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[491]]
+ [1]  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[492]]
+ [1]  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[493]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[494]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[495]]
+ [1]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[496]]
+ [1] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+[17] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+
+[[497]]
+ [1]  TRUE  TRUE  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[498]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[499]]
+ [1]  TRUE  TRUE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[500]]
+ [1]  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE  TRUE FALSE  TRUE FALSE  TRUE  TRUE
+[14]  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE  TRUE
+
+[[501]]
+acc_agreement
+TRUE 
+  22 
+
+[[502]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[503]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[504]]
+acc_agreement
+TRUE 
+  22 
+
+[[505]]
+acc_agreement
+TRUE 
+  24 
+
+[[506]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[507]]
+acc_agreement
+TRUE 
+  24 
+
+[[508]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[509]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[510]]
+acc_agreement
+TRUE 
+  22 
+
+[[511]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[512]]
+acc_agreement
+TRUE 
+  24 
+
+[[513]]
+acc_agreement
+TRUE 
+  24 
+
+[[514]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[515]]
+acc_agreement
+TRUE 
+  22 
+
+[[516]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[517]]
+acc_agreement
+FALSE  TRUE 
+    3    19 
+
+[[518]]
+acc_agreement
+TRUE 
+  24 
+
+[[519]]
+acc_agreement
+FALSE  TRUE 
+    2    20 
+
+[[520]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[521]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[522]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[523]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[524]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[525]]
+acc_agreement
+TRUE 
+  22 
+
+[[526]]
+acc_agreement
+TRUE 
+  22 
+
+[[527]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[528]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[529]]
+acc_agreement
+FALSE  TRUE 
+    2    20 
+
+[[530]]
+acc_agreement
+TRUE 
+  24 
+
+[[531]]
+acc_agreement
+TRUE 
+  24 
+
+[[532]]
+acc_agreement
+TRUE 
+  24 
+
+[[533]]
+acc_agreement
+FALSE  TRUE 
+    3    21 
+
+[[534]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[535]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[536]]
+acc_agreement
+TRUE 
+  24 
+
+[[537]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[538]]
+acc_agreement
+TRUE 
+  22 
+
+[[539]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[540]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[541]]
+acc_agreement
+TRUE 
+  24 
+
+[[542]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[543]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[544]]
+acc_agreement
+TRUE 
+  22 
+
+[[545]]
+acc_agreement
+FALSE  TRUE 
+    2    20 
+
+[[546]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[547]]
+acc_agreement
+TRUE 
+  24 
+
+[[548]]
+acc_agreement
+FALSE  TRUE 
+    3    21 
+
+[[549]]
+acc_agreement
+TRUE 
+  22 
+
+[[550]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[551]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[552]]
+acc_agreement
+TRUE 
+  24 
+
+[[553]]
+acc_agreement
+TRUE 
+  22 
+
+[[554]]
+acc_agreement
+TRUE 
+  24 
+
+[[555]]
+acc_agreement
+FALSE  TRUE 
+    3    19 
+
+[[556]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[557]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[558]]
+acc_agreement
+TRUE 
+  24 
+
+[[559]]
+acc_agreement
+TRUE 
+  24 
+
+[[560]]
+acc_agreement
+TRUE 
+  22 
+
+[[561]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[562]]
+acc_agreement
+TRUE 
+  22 
+
+[[563]]
+acc_agreement
+FALSE  TRUE 
+    3    19 
+
+[[564]]
+acc_agreement
+TRUE 
+  24 
+
+[[565]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[566]]
+acc_agreement
+TRUE 
+  22 
+
+[[567]]
+acc_agreement
+TRUE 
+  22 
+
+[[568]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[569]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[570]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[571]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[572]]
+acc_agreement
+TRUE 
+  22 
+
+[[573]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[574]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[575]]
+acc_agreement
+TRUE 
+  22 
+
+[[576]]
+acc_agreement
+TRUE 
+  24 
+
+[[577]]
+acc_agreement
+TRUE 
+  24 
+
+[[578]]
+acc_agreement
+TRUE 
+  24 
+
+[[579]]
+acc_agreement
+TRUE 
+  24 
+
+[[580]]
+acc_agreement
+TRUE 
+  24 
+
+[[581]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[582]]
+acc_agreement
+FALSE  TRUE 
+    2    22 
+
+[[583]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[584]]
+acc_agreement
+TRUE 
+  24 
+
+[[585]]
+acc_agreement
+TRUE 
+  24 
+
+[[586]]
+acc_agreement
+TRUE 
+  22 
+
+[[587]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[588]]
+acc_agreement
+TRUE 
+  24 
+
+[[589]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[590]]
+acc_agreement
+TRUE 
+  22 
+
+[[591]]
+acc_agreement
+FALSE  TRUE 
+    3    21 
+
+[[592]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[593]]
+acc_agreement
+TRUE 
+  24 
+
+[[594]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[595]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[596]]
+acc_agreement
+TRUE 
+  24 
+
+[[597]]
+acc_agreement
+FALSE  TRUE 
+    1    23 
+
+[[598]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[599]]
+acc_agreement
+FALSE  TRUE 
+    1    21 
+
+[[600]]
+acc_agreement
+FALSE  TRUE 
+    4    20 
+
+[[601]]
+acc_agreement
+TRUE 
+   1 
+
+[[602]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[603]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[604]]
+acc_agreement
+TRUE 
+   1 
+
+[[605]]
+acc_agreement
+TRUE 
+   1 
+
+[[606]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[607]]
+acc_agreement
+TRUE 
+   1 
+
+[[608]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[609]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[610]]
+acc_agreement
+TRUE 
+   1 
+
+[[611]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[612]]
+acc_agreement
+TRUE 
+   1 
+
+[[613]]
+acc_agreement
+TRUE 
+   1 
+
+[[614]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[615]]
+acc_agreement
+TRUE 
+   1 
+
+[[616]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[617]]
+acc_agreement
+    FALSE      TRUE 
+0.1363636 0.8636364 
+
+[[618]]
+acc_agreement
+TRUE 
+   1 
+
+[[619]]
+acc_agreement
+     FALSE       TRUE 
+0.09090909 0.90909091 
+
+[[620]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[621]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[622]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[623]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[624]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[625]]
+acc_agreement
+TRUE 
+   1 
+
+[[626]]
+acc_agreement
+TRUE 
+   1 
+
+[[627]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[628]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[629]]
+acc_agreement
+     FALSE       TRUE 
+0.09090909 0.90909091 
+
+[[630]]
+acc_agreement
+TRUE 
+   1 
+
+[[631]]
+acc_agreement
+TRUE 
+   1 
+
+[[632]]
+acc_agreement
+TRUE 
+   1 
+
+[[633]]
+acc_agreement
+FALSE  TRUE 
+0.125 0.875 
+
+[[634]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[635]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[636]]
+acc_agreement
+TRUE 
+   1 
+
+[[637]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[638]]
+acc_agreement
+TRUE 
+   1 
+
+[[639]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[640]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[641]]
+acc_agreement
+TRUE 
+   1 
+
+[[642]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[643]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[644]]
+acc_agreement
+TRUE 
+   1 
+
+[[645]]
+acc_agreement
+     FALSE       TRUE 
+0.09090909 0.90909091 
+
+[[646]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[647]]
+acc_agreement
+TRUE 
+   1 
+
+[[648]]
+acc_agreement
+FALSE  TRUE 
+0.125 0.875 
+
+[[649]]
+acc_agreement
+TRUE 
+   1 
+
+[[650]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[651]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[652]]
+acc_agreement
+TRUE 
+   1 
+
+[[653]]
+acc_agreement
+TRUE 
+   1 
+
+[[654]]
+acc_agreement
+TRUE 
+   1 
+
+[[655]]
+acc_agreement
+    FALSE      TRUE 
+0.1363636 0.8636364 
+
+[[656]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[657]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[658]]
+acc_agreement
+TRUE 
+   1 
+
+[[659]]
+acc_agreement
+TRUE 
+   1 
+
+[[660]]
+acc_agreement
+TRUE 
+   1 
+
+[[661]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[662]]
+acc_agreement
+TRUE 
+   1 
+
+[[663]]
+acc_agreement
+    FALSE      TRUE 
+0.1363636 0.8636364 
+
+[[664]]
+acc_agreement
+TRUE 
+   1 
+
+[[665]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[666]]
+acc_agreement
+TRUE 
+   1 
+
+[[667]]
+acc_agreement
+TRUE 
+   1 
+
+[[668]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[669]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[670]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[671]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[672]]
+acc_agreement
+TRUE 
+   1 
+
+[[673]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[674]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[675]]
+acc_agreement
+TRUE 
+   1 
+
+[[676]]
+acc_agreement
+TRUE 
+   1 
+
+[[677]]
+acc_agreement
+TRUE 
+   1 
+
+[[678]]
+acc_agreement
+TRUE 
+   1 
+
+[[679]]
+acc_agreement
+TRUE 
+   1 
+
+[[680]]
+acc_agreement
+TRUE 
+   1 
+
+[[681]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[682]]
+acc_agreement
+     FALSE       TRUE 
+0.08333333 0.91666667 
+
+[[683]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[684]]
+acc_agreement
+TRUE 
+   1 
+
+[[685]]
+acc_agreement
+TRUE 
+   1 
+
+[[686]]
+acc_agreement
+TRUE 
+   1 
+
+[[687]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[688]]
+acc_agreement
+TRUE 
+   1 
+
+[[689]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[690]]
+acc_agreement
+TRUE 
+   1 
+
+[[691]]
+acc_agreement
+FALSE  TRUE 
+0.125 0.875 
+
+[[692]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[693]]
+acc_agreement
+TRUE 
+   1 
+
+[[694]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[695]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[696]]
+acc_agreement
+TRUE 
+   1 
+
+[[697]]
+acc_agreement
+     FALSE       TRUE 
+0.04166667 0.95833333 
+
+[[698]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[699]]
+acc_agreement
+     FALSE       TRUE 
+0.04545455 0.95454545 
+
+[[700]]
+acc_agreement
+    FALSE      TRUE 
+0.1666667 0.8333333 
+
+[[701]]
+[1] 0.9756098
+
+[[702]]
+[1] 1
+
+[[703]]
+[1] 0.9878049
+
+[[704]]
+[1] 1
+
+[[705]]
+[1] 1
+
+[[706]]
+[1] 1
+
+[[707]]
+[1] 1
+
+[[708]]
+[1] 0.9756098
+
+[[709]]
+[1] 0.9878049
+
+[[710]]
+[1] 1
+
+[[711]]
+[1] 1
+
+[[712]]
+[1] 1
+
+[[713]]
+[1] 1
+
+[[714]]
+[1] 1
+
+[[715]]
+[1] 1
+
+[[716]]
+[1] 1
+
+[[717]]
+[1] 0.9634146
+
+[[718]]
+[1] 1
+
+[[719]]
+[1] 0.9878049
+
+[[720]]
+[1] 0.9878049
+
+[[721]]
+[1] 0.9634146
+
+[[722]]
+[1] 0.9756098
+
+[[723]]
+[1] 0.9878049
+
+[[724]]
+[1] 1
+
+[[725]]
+[1] 0.9756098
+
+[[726]]
+[1] 1
+
+[[727]]
+[1] 1
+
+[[728]]
+[1] 1
+
+[[729]]
+[1] 0.9878049
+
+[[730]]
+[1] 1
+
+[[731]]
+[1] 1
+
+[[732]]
+[1] 1
+
+[[733]]
+[1] 0.9512195
+
+[[734]]
+[1] 1
+
+[[735]]
+[1] 0.9878049
+
+[[736]]
+[1] 1
+
+[[737]]
+[1] 1
+
+[[738]]
+[1] 1
+
+[[739]]
+[1] 1
+
+[[740]]
+[1] 0.9878049
+
+[[741]]
+[1] 1
+
+[[742]]
+[1] 1
+
+[[743]]
+[1] 1
+
+[[744]]
+[1] 0.9878049
+
+[[745]]
+[1] 1
+
+[[746]]
+[1] 1
+
+[[747]]
+[1] 1
+
+[[748]]
+[1] 0.9146341
+
+[[749]]
+[1] 1
+
+[[750]]
+[1] 0.9756098
+
+[[751]]
+[1] 0.9756098
+
+[[752]]
+[1] 1
+
+[[753]]
+[1] 0.9878049
+
+[[754]]
+[1] 1
+
+[[755]]
+[1] 1
+
+[[756]]
+[1] 1
+
+[[757]]
+[1] 1
+
+[[758]]
+[1] 1
+
+[[759]]
+[1] 0.9634146
+
+[[760]]
+[1] 1
+
+[[761]]
+[1] 1
+
+[[762]]
+[1] 0.9878049
+
+[[763]]
+[1] 0.9634146
+
+[[764]]
+[1] 1
+
+[[765]]
+[1] 0.9878049
+
+[[766]]
+[1] 0.9878049
+
+[[767]]
+[1] 1
+
+[[768]]
+[1] 0.9878049
+
+[[769]]
+[1] 0.9878049
+
+[[770]]
+[1] 1
+
+[[771]]
+[1] 0.9634146
+
+[[772]]
+[1] 1
+
+[[773]]
+[1] 1
+
+[[774]]
+[1] 0.9878049
+
+[[775]]
+[1] 1
+
+[[776]]
+[1] 1
+
+[[777]]
+[1] 0.9878049
+
+[[778]]
+[1] 1
+
+[[779]]
+[1] 1
+
+[[780]]
+[1] 1
+
+[[781]]
+[1] 1
+
+[[782]]
+[1] 1
+
+[[783]]
+[1] 1
+
+[[784]]
+[1] 1
+
+[[785]]
+[1] 1
+
+[[786]]
+[1] 1
+
+[[787]]
+[1] 1
+
+[[788]]
+[1] 1
+
+[[789]]
+[1] 0.9756098
+
+[[790]]
+[1] 1
+
+[[791]]
+[1] 0.9756098
+
+[[792]]
+[1] 1
+
+[[793]]
+[1] 1
+
+[[794]]
+[1] 1
+
+[[795]]
+[1] 1
+
+[[796]]
+[1] 0.9756098
+
+[[797]]
+[1] 0.9878049
+
+[[798]]
+[1] 1
+
+[[799]]
+[1] 1
+
+[[800]]
+[1] 0.9512195
+
+[[801]]
+    true
+pred  1  2
+   1 41  2
+   2  0 39
+
+[[802]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[803]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[804]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[805]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[806]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[807]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[808]]
+    true
+pred  1  2
+   1 39  0
+   2  2 41
+
+[[809]]
+    true
+pred  1  2
+   1 41  1
+   2  0 40
+
+[[810]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[811]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[812]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[813]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[814]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[815]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[816]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[817]]
+    true
+pred  1  2
+   1 38  0
+   2  3 41
+
+[[818]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[819]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[820]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[821]]
+    true
+pred  1  2
+   1 41  3
+   2  0 38
+
+[[822]]
+    true
+pred  1  2
+   1 41  2
+   2  0 39
+
+[[823]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[824]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[825]]
+    true
+pred  1  2
+   1 41  2
+   2  0 39
+
+[[826]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[827]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[828]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[829]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[830]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[831]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[832]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[833]]
+    true
+pred  1  2
+   1 37  0
+   2  4 41
+
+[[834]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[835]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[836]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[837]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[838]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[839]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[840]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[841]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[842]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[843]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[844]]
+    true
+pred  1  2
+   1 41  1
+   2  0 40
+
+[[845]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[846]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[847]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[848]]
+    true
+pred  1  2
+   1 41  7
+   2  0 34
+
+[[849]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[850]]
+    true
+pred  1  2
+   1 39  0
+   2  2 41
+
+[[851]]
+    true
+pred  1  2
+   1 39  0
+   2  2 41
+
+[[852]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[853]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[854]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[855]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[856]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[857]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[858]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[859]]
+    true
+pred  1  2
+   1 41  3
+   2  0 38
+
+[[860]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[861]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[862]]
+    true
+pred  1  2
+   1 41  1
+   2  0 40
+
+[[863]]
+    true
+pred  1  2
+   1 38  0
+   2  3 41
+
+[[864]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[865]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[866]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[867]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[868]]
+    true
+pred  1  2
+   1 41  1
+   2  0 40
+
+[[869]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[870]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[871]]
+    true
+pred  1  2
+   1 38  0
+   2  3 41
+
+[[872]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[873]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[874]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[875]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[876]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[877]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[878]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[879]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[880]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[881]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[882]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[883]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[884]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[885]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[886]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[887]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[888]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[889]]
+    true
+pred  1  2
+   1 41  2
+   2  0 39
+
+[[890]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[891]]
+    true
+pred  1  2
+   1 39  0
+   2  2 41
+
+[[892]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[893]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[894]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[895]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[896]]
+    true
+pred  1  2
+   1 41  2
+   2  0 39
+
+[[897]]
+    true
+pred  1  2
+   1 40  0
+   2  1 41
+
+[[898]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[899]]
+    true
+pred  1  2
+   1 41  0
+   2  0 41
+
+[[900]]
+    true
+pred  1  2
+   1 37  0
+   2  4 41
+
+[[901]]
+[[901]]$diag
+[1] 0.9756098
+
+[[901]]$kappa
+[1] 0.9512195
+
+[[901]]$rand
+[1] 0.9518217
+
+[[901]]$crand
+[1] 0.9036317
+
+
+[[902]]
+[[902]]$diag
+[1] 1
+
+[[902]]$kappa
+[1] 1
+
+[[902]]$rand
+[1] 1
+
+[[902]]$crand
+[1] 1
+
+
+[[903]]
+[[903]]$diag
+[1] 0.9878049
+
+[[903]]$kappa
+[1] 0.9756098
+
+[[903]]$rand
+[1] 0.9756098
+
+[[903]]$crand
+[1] 0.9512124
+
+
+[[904]]
+[[904]]$diag
+[1] 1
+
+[[904]]$kappa
+[1] 1
+
+[[904]]$rand
+[1] 1
+
+[[904]]$crand
+[1] 1
+
+
+[[905]]
+[[905]]$diag
+[1] 1
+
+[[905]]$kappa
+[1] 1
+
+[[905]]$rand
+[1] 1
+
+[[905]]$crand
+[1] 1
+
+
+[[906]]
+[[906]]$diag
+[1] 1
+
+[[906]]$kappa
+[1] 1
+
+[[906]]$rand
+[1] 1
+
+[[906]]$crand
+[1] 1
+
+
+[[907]]
+[[907]]$diag
+[1] 1
+
+[[907]]$kappa
+[1] 1
+
+[[907]]$rand
+[1] 1
+
+[[907]]$crand
+[1] 1
+
+
+[[908]]
+[[908]]$diag
+[1] 0.9756098
+
+[[908]]$kappa
+[1] 0.9512195
+
+[[908]]$rand
+[1] 0.9518217
+
+[[908]]$crand
+[1] 0.9036317
+
+
+[[909]]
+[[909]]$diag
+[1] 0.9878049
+
+[[909]]$kappa
+[1] 0.9756098
+
+[[909]]$rand
+[1] 0.9756098
+
+[[909]]$crand
+[1] 0.9512124
+
+
+[[910]]
+[[910]]$diag
+[1] 1
+
+[[910]]$kappa
+[1] 1
+
+[[910]]$rand
+[1] 1
+
+[[910]]$crand
+[1] 1
+
+
+[[911]]
+[[911]]$diag
+[1] 1
+
+[[911]]$kappa
+[1] 1
+
+[[911]]$rand
+[1] 1
+
+[[911]]$crand
+[1] 1
+
+
+[[912]]
+[[912]]$diag
+[1] 1
+
+[[912]]$kappa
+[1] 1
+
+[[912]]$rand
+[1] 1
+
+[[912]]$crand
+[1] 1
+
+
+[[913]]
+[[913]]$diag
+[1] 1
+
+[[913]]$kappa
+[1] 1
+
+[[913]]$rand
+[1] 1
+
+[[913]]$crand
+[1] 1
+
+
+[[914]]
+[[914]]$diag
+[1] 1
+
+[[914]]$kappa
+[1] 1
+
+[[914]]$rand
+[1] 1
+
+[[914]]$crand
+[1] 1
+
+
+[[915]]
+[[915]]$diag
+[1] 1
+
+[[915]]$kappa
+[1] 1
+
+[[915]]$rand
+[1] 1
+
+[[915]]$crand
+[1] 1
+
+
+[[916]]
+[[916]]$diag
+[1] 1
+
+[[916]]$kappa
+[1] 1
+
+[[916]]$rand
+[1] 1
+
+[[916]]$crand
+[1] 1
+
+
+[[917]]
+[[917]]$diag
+[1] 0.9634146
+
+[[917]]$kappa
+[1] 0.9268293
+
+[[917]]$rand
+[1] 0.928636
+
+[[917]]$crand
+[1] 0.8572597
+
+
+[[918]]
+[[918]]$diag
+[1] 1
+
+[[918]]$kappa
+[1] 1
+
+[[918]]$rand
+[1] 1
+
+[[918]]$crand
+[1] 1
+
+
+[[919]]
+[[919]]$diag
+[1] 0.9878049
+
+[[919]]$kappa
+[1] 0.9756098
+
+[[919]]$rand
+[1] 0.9756098
+
+[[919]]$crand
+[1] 0.9512124
+
+
+[[920]]
+[[920]]$diag
+[1] 0.9878049
+
+[[920]]$kappa
+[1] 0.9756098
+
+[[920]]$rand
+[1] 0.9756098
+
+[[920]]$crand
+[1] 0.9512124
+
+
+[[921]]
+[[921]]$diag
+[1] 0.9634146
+
+[[921]]$kappa
+[1] 0.9268293
+
+[[921]]$rand
+[1] 0.928636
+
+[[921]]$crand
+[1] 0.8572597
+
+
+[[922]]
+[[922]]$diag
+[1] 0.9756098
+
+[[922]]$kappa
+[1] 0.9512195
+
+[[922]]$rand
+[1] 0.9518217
+
+[[922]]$crand
+[1] 0.9036317
+
+
+[[923]]
+[[923]]$diag
+[1] 0.9878049
+
+[[923]]$kappa
+[1] 0.9756098
+
+[[923]]$rand
+[1] 0.9756098
+
+[[923]]$crand
+[1] 0.9512124
+
+
+[[924]]
+[[924]]$diag
+[1] 1
+
+[[924]]$kappa
+[1] 1
+
+[[924]]$rand
+[1] 1
+
+[[924]]$crand
+[1] 1
+
+
+[[925]]
+[[925]]$diag
+[1] 0.9756098
+
+[[925]]$kappa
+[1] 0.9512195
+
+[[925]]$rand
+[1] 0.9518217
+
+[[925]]$crand
+[1] 0.9036317
+
+
+[[926]]
+[[926]]$diag
+[1] 1
+
+[[926]]$kappa
+[1] 1
+
+[[926]]$rand
+[1] 1
+
+[[926]]$crand
+[1] 1
+
+
+[[927]]
+[[927]]$diag
+[1] 1
+
+[[927]]$kappa
+[1] 1
+
+[[927]]$rand
+[1] 1
+
+[[927]]$crand
+[1] 1
+
+
+[[928]]
+[[928]]$diag
+[1] 1
+
+[[928]]$kappa
+[1] 1
+
+[[928]]$rand
+[1] 1
+
+[[928]]$crand
+[1] 1
+
+
+[[929]]
+[[929]]$diag
+[1] 0.9878049
+
+[[929]]$kappa
+[1] 0.9756098
+
+[[929]]$rand
+[1] 0.9756098
+
+[[929]]$crand
+[1] 0.9512124
+
+
+[[930]]
+[[930]]$diag
+[1] 1
+
+[[930]]$kappa
+[1] 1
+
+[[930]]$rand
+[1] 1
+
+[[930]]$crand
+[1] 1
+
+
+[[931]]
+[[931]]$diag
+[1] 1
+
+[[931]]$kappa
+[1] 1
+
+[[931]]$rand
+[1] 1
+
+[[931]]$crand
+[1] 1
+
+
+[[932]]
+[[932]]$diag
+[1] 1
+
+[[932]]$kappa
+[1] 1
+
+[[932]]$rand
+[1] 1
+
+[[932]]$crand
+[1] 1
+
+
+[[933]]
+[[933]]$diag
+[1] 0.9512195
+
+[[933]]$kappa
+[1] 0.902439
+
+[[933]]$rand
+[1] 0.9060524
+
+[[933]]$crand
+[1] 0.8120985
+
+
+[[934]]
+[[934]]$diag
+[1] 1
+
+[[934]]$kappa
+[1] 1
+
+[[934]]$rand
+[1] 1
+
+[[934]]$crand
+[1] 1
+
+
+[[935]]
+[[935]]$diag
+[1] 0.9878049
+
+[[935]]$kappa
+[1] 0.9756098
+
+[[935]]$rand
+[1] 0.9756098
+
+[[935]]$crand
+[1] 0.9512124
+
+
+[[936]]
+[[936]]$diag
+[1] 1
+
+[[936]]$kappa
+[1] 1
+
+[[936]]$rand
+[1] 1
+
+[[936]]$crand
+[1] 1
+
+
+[[937]]
+[[937]]$diag
+[1] 1
+
+[[937]]$kappa
+[1] 1
+
+[[937]]$rand
+[1] 1
+
+[[937]]$crand
+[1] 1
+
+
+[[938]]
+[[938]]$diag
+[1] 1
+
+[[938]]$kappa
+[1] 1
+
+[[938]]$rand
+[1] 1
+
+[[938]]$crand
+[1] 1
+
+
+[[939]]
+[[939]]$diag
+[1] 1
+
+[[939]]$kappa
+[1] 1
+
+[[939]]$rand
+[1] 1
+
+[[939]]$crand
+[1] 1
+
+
+[[940]]
+[[940]]$diag
+[1] 0.9878049
+
+[[940]]$kappa
+[1] 0.9756098
+
+[[940]]$rand
+[1] 0.9756098
+
+[[940]]$crand
+[1] 0.9512124
+
+
+[[941]]
+[[941]]$diag
+[1] 1
+
+[[941]]$kappa
+[1] 1
+
+[[941]]$rand
+[1] 1
+
+[[941]]$crand
+[1] 1
+
+
+[[942]]
+[[942]]$diag
+[1] 1
+
+[[942]]$kappa
+[1] 1
+
+[[942]]$rand
+[1] 1
+
+[[942]]$crand
+[1] 1
+
+
+[[943]]
+[[943]]$diag
+[1] 1
+
+[[943]]$kappa
+[1] 1
+
+[[943]]$rand
+[1] 1
+
+[[943]]$crand
+[1] 1
+
+
+[[944]]
+[[944]]$diag
+[1] 0.9878049
+
+[[944]]$kappa
+[1] 0.9756098
+
+[[944]]$rand
+[1] 0.9756098
+
+[[944]]$crand
+[1] 0.9512124
+
+
+[[945]]
+[[945]]$diag
+[1] 1
+
+[[945]]$kappa
+[1] 1
+
+[[945]]$rand
+[1] 1
+
+[[945]]$crand
+[1] 1
+
+
+[[946]]
+[[946]]$diag
+[1] 1
+
+[[946]]$kappa
+[1] 1
+
+[[946]]$rand
+[1] 1
+
+[[946]]$crand
+[1] 1
+
+
+[[947]]
+[[947]]$diag
+[1] 1
+
+[[947]]$kappa
+[1] 1
+
+[[947]]$rand
+[1] 1
+
+[[947]]$crand
+[1] 1
+
+
+[[948]]
+[[948]]$diag
+[1] 0.9146341
+
+[[948]]$kappa
+[1] 0.8292683
+
+[[948]]$rand
+[1] 0.8419151
+
+[[948]]$crand
+[1] 0.6838972
+
+
+[[949]]
+[[949]]$diag
+[1] 1
+
+[[949]]$kappa
+[1] 1
+
+[[949]]$rand
+[1] 1
+
+[[949]]$crand
+[1] 1
+
+
+[[950]]
+[[950]]$diag
+[1] 0.9756098
+
+[[950]]$kappa
+[1] 0.9512195
+
+[[950]]$rand
+[1] 0.9518217
+
+[[950]]$crand
+[1] 0.9036317
+
+
+[[951]]
+[[951]]$diag
+[1] 0.9756098
+
+[[951]]$kappa
+[1] 0.9512195
+
+[[951]]$rand
+[1] 0.9518217
+
+[[951]]$crand
+[1] 0.9036317
+
+
+[[952]]
+[[952]]$diag
+[1] 1
+
+[[952]]$kappa
+[1] 1
+
+[[952]]$rand
+[1] 1
+
+[[952]]$crand
+[1] 1
+
+
+[[953]]
+[[953]]$diag
+[1] 0.9878049
+
+[[953]]$kappa
+[1] 0.9756098
+
+[[953]]$rand
+[1] 0.9756098
+
+[[953]]$crand
+[1] 0.9512124
+
+
+[[954]]
+[[954]]$diag
+[1] 1
+
+[[954]]$kappa
+[1] 1
+
+[[954]]$rand
+[1] 1
+
+[[954]]$crand
+[1] 1
+
+
+[[955]]
+[[955]]$diag
+[1] 1
+
+[[955]]$kappa
+[1] 1
+
+[[955]]$rand
+[1] 1
+
+[[955]]$crand
+[1] 1
+
+
+[[956]]
+[[956]]$diag
+[1] 1
+
+[[956]]$kappa
+[1] 1
+
+[[956]]$rand
+[1] 1
+
+[[956]]$crand
+[1] 1
+
+
+[[957]]
+[[957]]$diag
+[1] 1
+
+[[957]]$kappa
+[1] 1
+
+[[957]]$rand
+[1] 1
+
+[[957]]$crand
+[1] 1
+
+
+[[958]]
+[[958]]$diag
+[1] 1
+
+[[958]]$kappa
+[1] 1
+
+[[958]]$rand
+[1] 1
+
+[[958]]$crand
+[1] 1
+
+
+[[959]]
+[[959]]$diag
+[1] 0.9634146
+
+[[959]]$kappa
+[1] 0.9268293
+
+[[959]]$rand
+[1] 0.928636
+
+[[959]]$crand
+[1] 0.8572597
+
+
+[[960]]
+[[960]]$diag
+[1] 1
+
+[[960]]$kappa
+[1] 1
+
+[[960]]$rand
+[1] 1
+
+[[960]]$crand
+[1] 1
+
+
+[[961]]
+[[961]]$diag
+[1] 1
+
+[[961]]$kappa
+[1] 1
+
+[[961]]$rand
+[1] 1
+
+[[961]]$crand
+[1] 1
+
+
+[[962]]
+[[962]]$diag
+[1] 0.9878049
+
+[[962]]$kappa
+[1] 0.9756098
+
+[[962]]$rand
+[1] 0.9756098
+
+[[962]]$crand
+[1] 0.9512124
+
+
+[[963]]
+[[963]]$diag
+[1] 0.9634146
+
+[[963]]$kappa
+[1] 0.9268293
+
+[[963]]$rand
+[1] 0.928636
+
+[[963]]$crand
+[1] 0.8572597
+
+
+[[964]]
+[[964]]$diag
+[1] 1
+
+[[964]]$kappa
+[1] 1
+
+[[964]]$rand
+[1] 1
+
+[[964]]$crand
+[1] 1
+
+
+[[965]]
+[[965]]$diag
+[1] 0.9878049
+
+[[965]]$kappa
+[1] 0.9756098
+
+[[965]]$rand
+[1] 0.9756098
+
+[[965]]$crand
+[1] 0.9512124
+
+
+[[966]]
+[[966]]$diag
+[1] 0.9878049
+
+[[966]]$kappa
+[1] 0.9756098
+
+[[966]]$rand
+[1] 0.9756098
+
+[[966]]$crand
+[1] 0.9512124
+
+
+[[967]]
+[[967]]$diag
+[1] 1
+
+[[967]]$kappa
+[1] 1
+
+[[967]]$rand
+[1] 1
+
+[[967]]$crand
+[1] 1
+
+
+[[968]]
+[[968]]$diag
+[1] 0.9878049
+
+[[968]]$kappa
+[1] 0.9756098
+
+[[968]]$rand
+[1] 0.9756098
+
+[[968]]$crand
+[1] 0.9512124
+
+
+[[969]]
+[[969]]$diag
+[1] 0.9878049
+
+[[969]]$kappa
+[1] 0.9756098
+
+[[969]]$rand
+[1] 0.9756098
+
+[[969]]$crand
+[1] 0.9512124
+
+
+[[970]]
+[[970]]$diag
+[1] 1
+
+[[970]]$kappa
+[1] 1
+
+[[970]]$rand
+[1] 1
+
+[[970]]$crand
+[1] 1
+
+
+[[971]]
+[[971]]$diag
+[1] 0.9634146
+
+[[971]]$kappa
+[1] 0.9268293
+
+[[971]]$rand
+[1] 0.928636
+
+[[971]]$crand
+[1] 0.8572597
+
+
+[[972]]
+[[972]]$diag
+[1] 1
+
+[[972]]$kappa
+[1] 1
+
+[[972]]$rand
+[1] 1
+
+[[972]]$crand
+[1] 1
+
+
+[[973]]
+[[973]]$diag
+[1] 1
+
+[[973]]$kappa
+[1] 1
+
+[[973]]$rand
+[1] 1
+
+[[973]]$crand
+[1] 1
+
+
+[[974]]
+[[974]]$diag
+[1] 0.9878049
+
+[[974]]$kappa
+[1] 0.9756098
+
+[[974]]$rand
+[1] 0.9756098
+
+[[974]]$crand
+[1] 0.9512124
+
+
+[[975]]
+[[975]]$diag
+[1] 1
+
+[[975]]$kappa
+[1] 1
+
+[[975]]$rand
+[1] 1
+
+[[975]]$crand
+[1] 1
+
+
+[[976]]
+[[976]]$diag
+[1] 1
+
+[[976]]$kappa
+[1] 1
+
+[[976]]$rand
+[1] 1
+
+[[976]]$crand
+[1] 1
+
+
+[[977]]
+[[977]]$diag
+[1] 0.9878049
+
+[[977]]$kappa
+[1] 0.9756098
+
+[[977]]$rand
+[1] 0.9756098
+
+[[977]]$crand
+[1] 0.9512124
+
+
+[[978]]
+[[978]]$diag
+[1] 1
+
+[[978]]$kappa
+[1] 1
+
+[[978]]$rand
+[1] 1
+
+[[978]]$crand
+[1] 1
+
+
+[[979]]
+[[979]]$diag
+[1] 1
+
+[[979]]$kappa
+[1] 1
+
+[[979]]$rand
+[1] 1
+
+[[979]]$crand
+[1] 1
+
+
+[[980]]
+[[980]]$diag
+[1] 1
+
+[[980]]$kappa
+[1] 1
+
+[[980]]$rand
+[1] 1
+
+[[980]]$crand
+[1] 1
+
+
+[[981]]
+[[981]]$diag
+[1] 1
+
+[[981]]$kappa
+[1] 1
+
+[[981]]$rand
+[1] 1
+
+[[981]]$crand
+[1] 1
+
+
+[[982]]
+[[982]]$diag
+[1] 1
+
+[[982]]$kappa
+[1] 1
+
+[[982]]$rand
+[1] 1
+
+[[982]]$crand
+[1] 1
+
+
+[[983]]
+[[983]]$diag
+[1] 1
+
+[[983]]$kappa
+[1] 1
+
+[[983]]$rand
+[1] 1
+
+[[983]]$crand
+[1] 1
+
+
+[[984]]
+[[984]]$diag
+[1] 1
+
+[[984]]$kappa
+[1] 1
+
+[[984]]$rand
+[1] 1
+
+[[984]]$crand
+[1] 1
+
+
+[[985]]
+[[985]]$diag
+[1] 1
+
+[[985]]$kappa
+[1] 1
+
+[[985]]$rand
+[1] 1
+
+[[985]]$crand
+[1] 1
+
+
+[[986]]
+[[986]]$diag
+[1] 1
+
+[[986]]$kappa
+[1] 1
+
+[[986]]$rand
+[1] 1
+
+[[986]]$crand
+[1] 1
+
+
+[[987]]
+[[987]]$diag
+[1] 1
+
+[[987]]$kappa
+[1] 1
+
+[[987]]$rand
+[1] 1
+
+[[987]]$crand
+[1] 1
+
+
+[[988]]
+[[988]]$diag
+[1] 1
+
+[[988]]$kappa
+[1] 1
+
+[[988]]$rand
+[1] 1
+
+[[988]]$crand
+[1] 1
+
+
+[[989]]
+[[989]]$diag
+[1] 0.9756098
+
+[[989]]$kappa
+[1] 0.9512195
+
+[[989]]$rand
+[1] 0.9518217
+
+[[989]]$crand
+[1] 0.9036317
+
+
+[[990]]
+[[990]]$diag
+[1] 1
+
+[[990]]$kappa
+[1] 1
+
+[[990]]$rand
+[1] 1
+
+[[990]]$crand
+[1] 1
+
+
+[[991]]
+[[991]]$diag
+[1] 0.9756098
+
+[[991]]$kappa
+[1] 0.9512195
+
+[[991]]$rand
+[1] 0.9518217
+
+[[991]]$crand
+[1] 0.9036317
+
+
+[[992]]
+[[992]]$diag
+[1] 1
+
+[[992]]$kappa
+[1] 1
+
+[[992]]$rand
+[1] 1
+
+[[992]]$crand
+[1] 1
+
+
+[[993]]
+[[993]]$diag
+[1] 1
+
+[[993]]$kappa
+[1] 1
+
+[[993]]$rand
+[1] 1
+
+[[993]]$crand
+[1] 1
+
+
+[[994]]
+[[994]]$diag
+[1] 1
+
+[[994]]$kappa
+[1] 1
+
+[[994]]$rand
+[1] 1
+
+[[994]]$crand
+[1] 1
+
+
+[[995]]
+[[995]]$diag
+[1] 1
+
+[[995]]$kappa
+[1] 1
+
+[[995]]$rand
+[1] 1
+
+[[995]]$crand
+[1] 1
+
+
+[[996]]
+[[996]]$diag
+[1] 0.9756098
+
+[[996]]$kappa
+[1] 0.9512195
+
+[[996]]$rand
+[1] 0.9518217
+
+[[996]]$crand
+[1] 0.9036317
+
+
+[[997]]
+[[997]]$diag
+[1] 0.9878049
+
+[[997]]$kappa
+[1] 0.9756098
+
+[[997]]$rand
+[1] 0.9756098
+
+[[997]]$crand
+[1] 0.9512124
+
+
+[[998]]
+[[998]]$diag
+[1] 1
+
+[[998]]$kappa
+[1] 1
+
+[[998]]$rand
+[1] 1
+
+[[998]]$crand
+[1] 1
+
+
+[[999]]
+[[999]]$diag
+[1] 1
+
+[[999]]$kappa
+[1] 1
+
+[[999]]$rand
+[1] 1
+
+[[999]]$crand
+[1] 1
+
+
+[[1000]]
+[[1000]]$diag
+[1] 0.9512195
+
+[[1000]]$kappa
+[1] 0.902439
+
+[[1000]]$rand
+[1] 0.9060524
+
+[[1000]]$crand
+[1] 0.8120985
+
+
+ [ reached getOption("max.print") -- omitted 400 entries ]
